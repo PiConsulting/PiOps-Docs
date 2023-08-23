@@ -1,5 +1,6 @@
-theme: just-the-docs
-#plugins:
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 # - jekyll-remote-theme
 color_scheme: piwhite
 nav_sort: case_sensitive
