@@ -16,8 +16,8 @@
 title: Piops
 description: "Documentación de PiOps"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://github.com/PiConsulting/PiOps-Docs" # the base hostname & protocol for your site, e.g. http://example.com
+repository: PiConsulting/PiOps-Docs # for github-metadata
 theme: just-the-docs
 
 permalink: pretty
