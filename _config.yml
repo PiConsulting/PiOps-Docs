@@ -1,7 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
-# - jekyll-remote-theme
 color_scheme: piwhite
 nav_sort: case_sensitive
 title: PiOps-Docs
@@ -10,7 +6,8 @@ email: info@piconsulting.com.ar
 # logo: "/assets/images/logo.png"
 description: > # this means to ignore newlines until "baseurl:"
   Creamos una plataforma web para que las empresas logren administrar sus clientes, asignaciones, posiciones y consultores. Esto agiliza muchos procesos que actualmente se hacen en persona o a través de un equipo administrativo grande. ​
-
+theme: just-the-docs
+url: https://github.com/PiConsulting/PiOps-Docs
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
