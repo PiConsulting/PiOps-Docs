@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Vista general de la sección
 
-![](media/clientesvg.png)
+![](/media/clientesvg.png)
 En esta pantalla podremos ver los clientes en la tabla, poder agregar un nuevo cliente, modificarlo y/o eliminarlo. También podremos hacer una búsqueda de los clientes dentro de la tabla.
 
 ---
