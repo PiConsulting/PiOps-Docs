@@ -5,13 +5,16 @@ nav_order: 2
 ---
 
 # Clientes
+
 {: .no_toc }
 
-## Vista general de la sección 
-![](../../assets/images/clientesvg.png)
+## Vista general de la sección
+
+![](media/clientesvg.png)
 En esta pantalla podremos ver los clientes en la tabla, poder agregar un nuevo cliente, modificarlo y/o eliminarlo. También podremos hacer una búsqueda de los clientes dentro de la tabla.
 
 ---
+
 ## En la tabla encontramos los siguientes datos
 
 **Nombre**  
@@ -32,12 +35,12 @@ Eliminar: El usuario cuenta con la posibilidad de eliminar un cliente.
 ## ¿Cómo agregamos un cliente?
 
 1. Para comenzar, dirígete al botón en la esquina superior derecha etiquetado como "Nuevo cliente".
-   
-   ![Botón Nuevo Cliente](../../assets/images/btnNuevoCliente.png)
-   
+
+   ![Botón Nuevo Cliente](media/btnNuevoCliente.png)
+
 2. Una vez que hagas clic en este botón, aparecerá una ventana emergente como la siguiente:
-   
-   ![Ventana Agregar Cliente](../../assets/images/modalAddCliente.png)
+
+   ![Ventana Agregar Cliente](media/modalAddCliente.png)
 
    Aquí es donde ingresamos los detalles del nuevo cliente:
 
@@ -54,54 +57,53 @@ Eliminar: El usuario cuenta con la posibilidad de eliminar un cliente.
 
 5. Luego de haber completado todos los campos necesarios y estés seguro de que la información es correcta, haz clic en el botón "Agregar cliente". Esto creará el nuevo registro del cliente y verás una notificación como la siguiente:
 
-   ![Notificación Cliente Agregado](../../assets/images/NuevoClienteSucess.png)
-
-
---- 
-
-## ¿Cómo editamos un cliente?  
-
-1. Lo primero que tenemos que hacer es ir al cliente que queremos editar en la pantalla.  
-   ![Botón Nuevo Cliente](../../assets/images/clienteAEditar.png)  
-
-2. Apretar el siguiente botón dentro de la fila del cliente requerido.  
-   ![Botón Nuevo Cliente](../../assets/images/EditIcon.png)  
-
-3. Nos aparecerá una pantalla con los datos del cliente, desde ahí podemos hacer la modificación que requerimos.  
-   ![Botón Nuevo Cliente](../../assets/images/modelEditCliente.png)  
-
-4. Una vez que estemos seguros de nuestras modificaciones hacemos click al botón "Guardar cambios", esperamos que la modificación esté lista y nos deberá aparecer una notificación (arriba a la derecha) con la siguiente información:  
-   ![Botón Nuevo Cliente](../../assets/images/notificacionSucess.png)  
+   ![Notificación Cliente Agregado](media/NuevoClienteSucess.png)
 
 ---
 
-## ¿Cómo eliminamos un cliente?  
+## ¿Cómo editamos un cliente?
+
+1. Lo primero que tenemos que hacer es ir al cliente que queremos editar en la pantalla.  
+   ![Botón Nuevo Cliente](media/clienteAEditar.png)
+
+2. Apretar el siguiente botón dentro de la fila del cliente requerido.  
+   ![Botón Nuevo Cliente](media/EditIcon.png)
+
+3. Nos aparecerá una pantalla con los datos del cliente, desde ahí podemos hacer la modificación que requerimos.  
+   ![Botón Nuevo Cliente](media/modelEditCliente.png)
+
+4. Una vez que estemos seguros de nuestras modificaciones hacemos click al botón "Guardar cambios", esperamos que la modificación esté lista y nos deberá aparecer una notificación (arriba a la derecha) con la siguiente información:  
+   ![Botón Nuevo Cliente](media/notificacionSucess.png)
+
+---
+
+## ¿Cómo eliminamos un cliente?
 
 1. Lo primero que tenemos que hacer es ir al cliente que queremos eliminar en la pantalla.  
-   ![Tabla Cliente](../../assets/images/clienteAEditar.png)  
+   ![Tabla Cliente](media/clienteAEditar.png)
 
 2. Apretar el siguiente botón dentro de la fila del cliente requerido:  
-   ![Icono Eliminar Cliente](../../assets/images/DeleteIcon.png)  
+   ![Icono Eliminar Cliente](media/DeleteIcon.png)
 
 3. Nos aparecerá un pop up comentando cómo afecta esta acción a los datos que están a punto de perderse.  
-   ![Modal Eliminar Cliente](../../assets/images/modalEliminarCliente.png)  
+   ![Modal Eliminar Cliente](media/modalEliminarCliente.png)
 
 4. Si estamos seguros de hacer esta acción, hacemos clic en el botón "Eliminar cliente".  
-    ![Notificacion de Eliminar cliente con exito](../../assets/images/confirmacionDeleteCliente.png)  
+   ![Notificacion de Eliminar cliente con exito](media/confirmacionDeleteCliente.png)
 
---- 
+---
 
-## Errores que nos podemos encontrar en la sección    <br>
+## Errores que nos podemos encontrar en la sección <br>
 
-  <br><br>
-   ![Error al guardar Cambios](../../assets/images/errorNoPudimosguardarcambios.png)  
+<br><br>
+![Error al guardar Cambios](media/errorNoPudimosguardarcambios.png)
 
 Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error.<br>
-  
-   ![Error al eliminar cliente](../../assets/images/errorNosepudoeliminarelcliente.png)  
+
+![Error al eliminar cliente](media/errorNosepudoeliminarelcliente.png)
 
 Podrías tener este error si el cliente tiene otras entidades relacionadas y al borrarlo se rompe la integridad.<br>
 
-   ![Error proyectos cargados](../../assets/images/errorClienteCargado.png)  
+![Error proyectos cargados](media/errorClienteCargado.png)
 
 Podrías tener algún error de estos si el cliente sigue vigente con la empresa.<br>

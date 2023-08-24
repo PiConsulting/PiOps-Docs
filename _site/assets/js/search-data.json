@@ -42,11 +42,11 @@
     "relUrl": "/docs/clientes.html#cómo-eliminamos-un-cliente"
   },"6": {
     "doc": "Clientes",
-    "title": "Errores que nos podemos encontrar en la sección    ",
+    "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error. Podrías tener este error si el cliente tiene otras entidades relacionadas y al borrarlo se rompe la integridad. Podrías tener algún error de estos si el cliente sigue vigente con la empresa. ",
-    "url": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n----",
+    "url": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
-    "relUrl": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-sección----"
+    "relUrl": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"7": {
     "doc": "Clientes",
     "title": "Clientes",
@@ -196,11 +196,11 @@
     "relUrl": "/docs/consultores.html#cómo-vemos-el-total-de-consultores"
   },"28": {
     "doc": "Consultores",
-    "title": "Errores que nos podemos encontrar en la sección    ",
+    "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error. No se podrá borrar algún consultor que sigue activo en algún proyecto. ",
-    "url": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n----",
+    "url": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
-    "relUrl": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-sección----"
+    "relUrl": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"29": {
     "doc": "Customization",
     "title": "Customization",
@@ -385,11 +385,11 @@
     "relUrl": "/docs/operaciones.html#funciones-principales"
   },"55": {
     "doc": "Operaciones",
-    "title": "Errores que nos podemos encontrar en la sección    ",
+    "title": "Errores que nos podemos encontrar en la sección ",
     "content": "Este error significa que no se pudo llevar a cabo el proceso de asignación. Generalmente, puede deberse a algún conflicto en la base de datos o problemas de conexión. Intente nuevamente. Si el error persiste, comuníquese con soporte. Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte. ",
-    "url": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n----",
+    "url": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
-    "relUrl": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-sección----"
+    "relUrl": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"56": {
     "doc": "Posiciones",
     "title": "Posiciones",
@@ -476,11 +476,11 @@
     "relUrl": "/docs/proyectos.html#cómo-eliminamos-un-proyecto"
   },"68": {
     "doc": "Proyectos",
-    "title": "Errores que nos podemos encontrar en la sección    ",
+    "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". | Esta notificación de error alerta que se está queriendo eliminar un proyecto que tiene consultores asignados, verifique que el proyecto no tenga consultores asignados antes de eliminarlos. | Esta notificación alerta que cuando se intentó crear el proyecto hubo un fallo y no se pudo crear, puede llegar a deberse por problemas de conexión o tal vez de servidor, cerrar y volver a intentarlo. | Esta notificación advierte que no se pudieron obtener los datos de la sección, puede deberse a problemas de conexión . | . ",
-    "url": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n----",
+    "url": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
-    "relUrl": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-sección----"
+    "relUrl": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"69": {
     "doc": "Versiones",
     "title": "Versiones",
