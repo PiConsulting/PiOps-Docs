@@ -57,13 +57,13 @@ Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde 
    ![](media/cantidadHorasVendidas.png)
 
 7. Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto.
-   ![](media/fechainicio.png)
+   ![](media/fechaInicio.png)
 
 8. Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto, estos pueden ser: En Curso, Cancelado, Terminado, En análisis, En espera cliente, En espera interno.
    ![](media/selectEstado.png)
 
 9. Seleccionamos de la lista despegable la fase en el que se encuentra el proyecto, estos pueden ser (En curso, En construcción, En preparación, En producción, Desarrollo, Requerimientos, Cancelado).
-   ![](media/selectEstadoProyecto.png)
+   ![](media/SelectEstadoProyecto.png)
 
 10. indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%.
     ![](media/proyecto.png)

@@ -49,7 +49,7 @@ Dentro de las acciones nos podemos encontrar con: Editar posición, Ver posició
 ## ¿Cómo creamos una posición?
 
 1. Lo primero que tenemos que hacer, es ir al botón de "Nueva posición".
-   ![](media/posiciones/btnNuevaPosicion.png)<br>
+   ![](media/posiciones/btnNuevaposicion.png)<br>
 
 2. Luego de apretar el botón de "Nueva posición" se nos abrirá el siguiente formulario:
    ![](media/posiciones/modalPosicion.png)<br>

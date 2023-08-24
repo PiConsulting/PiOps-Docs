@@ -96,14 +96,14 @@ Eliminar: El usuario cuenta con la posibilidad de eliminar un cliente.
 ## Errores que nos podemos encontrar en la sección <br>
 
 <br><br>
-![Error al guardar Cambios](media/errorNoPudimosguardarcambios.png)
+![](media/ErrorNoPudimosguardarcambios.png)
 
 Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error.<br>
 
-![Error al eliminar cliente](media/errorNosepudoeliminarelcliente.png)
+![](media/ErrorNosepudoeliminarelcliente.png)
 
 Podrías tener este error si el cliente tiene otras entidades relacionadas y al borrarlo se rompe la integridad.<br>
 
-![Error proyectos cargados](media/errorClienteCargado.png)
+![](media/ErrorClienteCargado.png)
 
 Podrías tener algún error de estos si el cliente sigue vigente con la empresa.<br>

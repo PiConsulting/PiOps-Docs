@@ -53,7 +53,7 @@ Son todas las acciones que podemos hacer en los consultores (editar y/o eliminar
 ## ¿Cómo creamos un nuevo consultor?
 
 1. Para poder agregar a un nuevo consultor hacemos clic en el botón de arriba a la derecha llamado "Nuevo consultor".
-   ![](media/consultores/brnuevoconsultor.png)
+   ![](media/consultores/brnnuevoconsultor.png)
 
 2. Al hacer clic en el botón nos aparecerá la siguiente pantalla
    ![](media/consultores/modalconsultor.png)
@@ -141,7 +141,7 @@ Son todas las acciones que podemos hacer en los consultores (editar y/o eliminar
    ![](media/consultores/check.png)
 
 3. Si apretamos la casilla de verificación que nos muestra, ahí nos aparecerán todos los consultores como en la siguiente imagen:
-   ![](media/consultores/checktabla.png)
+   ![](media/consultores/tablacheck.png)
 
 4. Si miramos en la paginación veremos que hubo un cambio en el total de la paginación indicándonos que estamos mostrando todos los consultores (antes eran 5 páginas, ahora son 7).
 
