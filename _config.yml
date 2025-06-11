@@ -9,7 +9,8 @@ email: info@piconsulting.com.ar
 # logo: "/assets/images/logo.png"
 description: > # this means to ignore newlines until "baseurl:"
   Creamos una plataforma web para que las empresas logren administrar sus clientes, asignaciones, posiciones y consultores. Esto agiliza muchos procesos que actualmente se hacen en persona o a través de un equipo administrativo grande. ​
-url: https://piconsulting.github.io/PiOps-Docs/
+url: https://piconsulting.github.io
+baseurl: /PiOps-Docs
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!

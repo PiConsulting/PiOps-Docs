@@ -1,5 +1,5 @@
-# Custom workflow for building and deploying Jekyll to GitHub Pages
-name: Deploy Jekyll Custom
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Deploy Jekyll with GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -15,7 +15,7 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# Allow only one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -27,37 +27,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      # Setup Ruby
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
           bundler-cache: true
-
-      # Setup Pages
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      # Install dependencies
       - name: Install dependencies
-        run: |
-          bundle install
-
-      # Build site
-      - name: Build site
-        run: |
-          bundle exec jekyll build --trace
+        run: bundle install
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
-
-      # Upload site
-      - name: Upload site artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: github-pages
-          path: _site/
-          if-no-files-found: error
+          path: "_site/"
 
   # Deployment job
   deploy:
@@ -67,12 +53,6 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Download site artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: _site/
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
