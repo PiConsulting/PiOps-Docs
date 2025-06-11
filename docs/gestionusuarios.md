@@ -2,6 +2,7 @@
 layout: default
 title: Gestión de usuarios
 nav_order: 7
+nav_exclude: true
 ---
 
 # Gestión de usuarios

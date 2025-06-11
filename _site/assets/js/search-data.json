@@ -386,7 +386,7 @@
   },"55": {
     "doc": "Operaciones",
     "title": "Errores que nos podemos encontrar en la sección ",
-    "content": "Este error significa que no se pudo llevar a cabo el proceso de asignación. Generalmente, puede deberse a algún conflicto en la base de datos o problemas de conexión. Intente nuevamente. Si el error persiste, comuníquese con soporte. Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte. ",
+    "content": "Este error significa que no se pudo llevar a cabo el proceso de asignación. Generalmente, puede deberse a algún conflicto en la base de datos o problemas de conexión. Intente nuevamente. Si el error persiste, comuníquese con soporte. Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte. FTE excedido. El consultor no puede tener más de 1.25 FTE asignados, Disponible para asignar: FTE. Este error aparece cuando intentamos asignar a un consultor más tiempo del disponible según su capacidad máxima. El sistema limita la asignación total a 1.25 FTE por consultor. El mensaje indicará específicamente cuánto FTE tiene aún disponible para asignar. Asignaciones actualizadas (Guardar cambios para actualizar en la base de datos) Este mensaje aparece como recordatorio de que aunque los cambios se han registrado en la interfaz, es necesario hacer clic en el botón “Guardar cambios” para que estos se apliquen permanentemente en la base de datos. ",
     "url": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-sección-"
@@ -400,14 +400,14 @@
   },"57": {
     "doc": "Posiciones",
     "title": "Vista general de la sección",
-    "content": "En la pantalla de posiciones, vamos a poder llevar el seguimiento de las posiciones que tiene cada cliente y los consultores asignados en las mismas. En la misma sección, también se puede filtrar por: Cliente, Consultor y Estado. También contamos con la posibilidad de buscar una posición. En la lista de posiciones nos encontramos con: Posiciones, Clientes, Proyectos, Consultores, Estado y acciones. Posiciones . Cuenta con el detalle de la posición, el área en el que se encuentra esa posición y el nivel de prioridad que tiene la misma. Clientes . Indica el nombre del cliente que tiene la posición asignada. Proyectos . Indica el proyecto en curso que cuenta con la posición asignada. Consultores . Indica si la posición tiene o no un consultor asignado. Estado . Indica el estado de la posición, los cuales pueden ser: Abierta, en negociación, en curso, finalizada y cancelada. Acciones . Dentro de las acciones nos podemos encontrar con: Editar posición, Ver posición y Eliminar posición. | Editar posición: El usuario cuenta con la posibilidad de editar la posición actual. | Ver posición: El usuario cuenta con la posibilidad de ver el detalle de la posición y editarla en caso de que lo necesite. | . ",
+    "content": "En la pantalla de posiciones, vamos a poder llevar el seguimiento de las posiciones que tiene cada cliente y los consultores asignados en las mismas. En la misma sección, también se puede filtrar por: Cliente, Consultor y Estado. También contamos con la posibilidad de buscar una posición. En la lista de posiciones nos encontramos con las siguientes columnas: . Prioridad . Indica el nivel de prioridad asignado a cada posición, representado por un indicador visual (flecha hacia arriba, abajo o al centro). Rol y Área . Muestra la información del rol específico (como React Developer, BI, Python) y el área a la que pertenece la posición (como Development, Data Science). Cliente . Indica el nombre del cliente que tiene la posición asignada (como Pi Consulting, etc.). Proyecto . Muestra el proyecto asociado a la posición. Búsqueda Activa . Indica si la posición está activamente en búsqueda de candidatos (muestra SI o NO). Ejecutivo . Muestra el nombre del ejecutivo o persona a cargo de la posición cuando está asignado. Estado . Indica el estado actual de la posición (Open,Negotiation, Finished, On Going, etc.). Acciones . Dentro de las acciones nos podemos encontrar con: Editar posición, Ver posición y Cancelar posición. | Editar posición: El usuario cuenta con la posibilidad de editar la posición actual. | Ver posición: El usuario cuenta con la posibilidad de ver el detalle de la posición y editarla en caso de que lo necesite. | Cancelar posición: El usuario cuenta con la posibilidad de cancelar la posición actual. | . ",
     "url": "/docs/posiciones.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#vista-general-de-la-sección"
   },"58": {
     "doc": "Posiciones",
     "title": "¿Cómo creamos una posición?",
-    "content": ". | Lo primero que tenemos que hacer, es ir al botón de “Nueva posición”. | Luego de apretar el botón de “Nueva posición” se nos abrirá el siguiente formulario: Para llenar el formulario, vamos a tener que ingresar los siguientes datos: Cliente Nombre del cliente donde se creará la posición. Proyecto Indicamos el proyecto en el cual se creará la posición. Área Indicamos el área a la que pertenecerá la posición nueva. FTE Indicamos el equivalente de tiempo en proyecto de la posición. Rol Indicamos el rol que cumplirá la posición. Estado Indicamos el estado en el cual se encuentra la posición (Como es nueva, lo más probable es que pongamos “Open” como estado). Fecha de inicio y final (Opcional) Indicamos cuándo inicia y termina el proyecto. Descripción Ingresamos una breve descripción del proyecto. Esto ayudará a quien necesite ver el detalle de la posición. Prioridad Seleccionamos el tipo de prioridad que tiene la posición nueva, las prioridades que podemos elegir son: Baja, media, alta. Búsqueda activa Indicamos si la búsqueda de esta nueva posición está abierta o no. Persona a cargo (opcional) Ingresamos el nombre de la persona que está a cargo de esta posición. | Una vez completado el formulario, le damos al botón “Crear posición” . | Una vez finalizado este proceso, vamos a ver una notificación confirmando que la posición fue creada con éxito. | . ",
+    "content": ". | Lo primero que tenemos que hacer, es ir al botón de “Nueva posición”. | Luego de apretar el botón de “Nueva posición” se nos abrirá el siguiente formulario: Para llenar el formulario, vamos a tener que ingresar los siguientes datos: Cliente Seleccionamos el cliente donde se creará la posición de la lista desplegable. Proyecto Seleccionamos el proyecto en el cual se creará la posición. Es necesario seleccionar primero el cliente para que se muestren sus proyectos. Área Seleccionamos el área a la que pertenecerá la posición nueva de la lista desplegable. Tiempo en proyecto (FTE) Ingresamos el equivalente de tiempo completo (Full Time Equivalent) para esta posición. Por ejemplo, FT = 1 para tiempo completo. Rol Ingresamos el rol específico que cumplirá la persona en esta posición. Seniority Seleccionamos el nivel de seniority requerido para la posición de la lista desplegable. Estado Seleccionamos el estado inicial de la posición de la lista desplegable (Open, Negotiation, etc.). Fecha de inicio y Fin Seleccionamos las fechas de inicio y finalización para la posición utilizando el selector de calendario. Descripción del proyecto (Opcional) Ingresamos una breve descripción del proyecto y responsabilidades. Esto ayudará a quien necesite ver el detalle de la posición. Ejecutivo a cargo (Opcional) Ingresamos el nombre del ejecutivo a cargo. Área Seleccionamos un área específica para obtener los específicos de esa área (campo adicional para detalles específicos). Prioridad (Opcional) Seleccionamos el nivel de prioridad que tiene la posición nueva de la lista desplegable. Búsqueda activa (Opcional) Activamos este interruptor si la posición está actualmente en búsqueda activa de candidatos. Persona a cargo (Opcional) Ingresamos el nombre de la persona responsable del proyecto o posición. | Una vez completado el formulario, le damos al botón “Crear posición” . | Una vez finalizado este proceso, vamos a ver una notificación confirmando que la posición fue creada con éxito. | . ",
     "url": "/docs/posiciones.html#c%C3%B3mo-creamos-una-posici%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#cómo-creamos-una-posición"
@@ -427,64 +427,71 @@
     "relUrl": "/docs/posiciones.html#cómo-veo-el-detalle-de-una-posición"
   },"61": {
     "doc": "Posiciones",
-    "title": "¿Cómo elimino una posición?",
-    "content": ". | Para eliminar una posición, debemos seleccionar una posición que deseemos eliminar y apretar el tercer botón de la barra de acciones, el mismo elimina automáticamente la posición y todos los datos que contenga. | Una vez presionado el botón, vamos a recibir una notificación emergente avisando que la posición fue eliminada con éxito. | . ",
-    "url": "/docs/posiciones.html#c%C3%B3mo-elimino-una-posici%C3%B3n",
+    "title": "¿Cómo cancelo una posición?",
+    "content": ". | Para cancelar una posición, debemos seleccionar una posición que deseemos cancelar y apretar el tercer botón de la barra de acciones. Esta acción cambia el estado de la posición a “Cancelada” pero mantiene sus datos en el sistema para referencia histórica. | Una vez presionado el botón, vamos a recibir una notificación emergente confirmando que la posición fue cancelada con éxito. | . ",
+    "url": "/docs/posiciones.html#c%C3%B3mo-cancelo-una-posici%C3%B3n",
     
-    "relUrl": "/docs/posiciones.html#cómo-elimino-una-posición"
+    "relUrl": "/docs/posiciones.html#cómo-cancelo-una-posición"
   },"62": {
+    "doc": "Posiciones",
+    "title": "Descargar Informe de Posiciones",
+    "content": "Descarga un informe de las posiciones en CSV . ",
+    "url": "/docs/posiciones.html#descargar-informe-de-posiciones",
+    
+    "relUrl": "/docs/posiciones.html#descargar-informe-de-posiciones"
+  },"63": {
     "doc": "Proyectos",
     "title": "Proyectos",
     "content": " ",
     "url": "/docs/proyectos.html",
     
     "relUrl": "/docs/proyectos.html"
-  },"63": {
+  },"64": {
     "doc": "Proyectos",
     "title": "Vista general de la sección",
-    "content": "En esta sección, los usuarios podrán acceder a una tabla detallada de los proyectos actuales que han sido cargados en la aplicación. Cada proyecto se presenta con información relevante y completa, que incluye el nombre del proyecto, el cliente asociado, las fechas de inicio y finalización, el estado actual del proyecto y la fase en la que se encuentra hasta el momento. Esta vista proporciona una visión general completa y actualizada de todos los proyectos en curso, lo que permite a los usuarios mantenerse al tanto del estado de proyecto y tomar decisiones informadas en función del progreso y las fechas límite. Además, la disponibilidad de información detallada sobre el cliente asociado en cada proyecto facilita la identificación rápida y precisa de los proyectos relacionados con cada cliente específico, optimizando así la eficiencia y organización en la gestión de múltiples proyectos y clientes. ",
+    "content": "En esta sección, los usuarios podrán acceder a una tabla detallada de los proyectos actuales que han sido cargados en la aplicación. Cada proyecto se presenta con información relevante y completa, que incluye el nombre del proyecto, el cliente asociado, las fechas de inicio y finalización, las fechas de inicio real y fechas de fin real, el estado actual del proyecto y la fase en la que se encuentra hasta el momento. Esta vista proporciona una visión general completa y actualizada de todos los proyectos en curso, lo que permite a los usuarios mantenerse al tanto del estado de proyecto y tomar decisiones informadas en función del progreso y las fechas límite. Además, la disponibilidad de información detallada sobre el cliente asociado en cada proyecto facilita la identificación rápida y precisa de los proyectos relacionados con cada cliente específico, optimizando así la eficiencia y organización en la gestión de múltiples proyectos y clientes. ",
     "url": "/docs/proyectos.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/proyectos.html#vista-general-de-la-sección"
-  },"64": {
+  },"65": {
     "doc": "Proyectos",
     "title": "Filtrando proyectos y clientes",
-    "content": "Para facilitar la búsqueda y organización de proyectos, el usuario podrá utilizar la función de filtrado. | Localizar el buscador ubicado en la parte superior izquierda de la vista general con la palabra “Buscar proyecto” | Ingresar el nombre del proyecto que quiere buscar. | A medida que se escribe el nombre del proyecto o nombre del cliente, la tabla comenzará a mostrar automáticamente los resultados coincidentes en tiempo real. | . ",
+    "content": "Para facilitar la búsqueda y organización de proyectos, el usuario podrá utilizar la función de filtrado. Filtro por nombre . | Localizar el buscador ubicado en la parte superior izquierda de la vista general con la palabra “Buscar proyecto” | Ingresar el nombre del proyecto que quiere buscar. | A medida que se escribe el nombre del proyecto o nombre del cliente, la tabla comenzará a mostrar automáticamente los resultados coincidentes en tiempo real. | . Filtro por cliente . | Hacer clic en el selector desplegable de “Filtro por Cliente” | Seleccionar el cliente específico cuyos proyectos desea visualizar | La tabla se actualizará mostrando únicamente los proyectos asociados al cliente seleccionado | . Filtro por rango de fechas . | Localizar los selectores de fecha “Desde” y “Hasta” en la barra de filtros | Seleccionar la fecha inicial en el campo “Desde” | Seleccionar la fecha final en el campo “Hasta” | La tabla se actualizará mostrando únicamente los proyectos cuya fecha de inicio se encuentre dentro del rango seleccionado | . Los filtros pueden combinarse para realizar búsquedas más específicas. Por ejemplo, se pueden filtrar proyectos de un cliente específico que además se encuentren dentro de un determinado rango de fechas. ",
     "url": "/docs/proyectos.html#filtrando-proyectos-y-clientes",
     
     "relUrl": "/docs/proyectos.html#filtrando-proyectos-y-clientes"
-  },"65": {
+  },"66": {
     "doc": "Proyectos",
     "title": "¿Cómo agregamos un proyecto?",
-    "content": "Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde esta sección. A continuación, se detallará como agregar un nuevo proyecto. | Localizamos el botón de “Nuevo proyecto” en la parte superior derecha de la vista general. | Hacer clic en el botón. Se nos abrirá un modal con el formulario de alta de un proyecto donde vamos a rellenar todos los campos. | Ingresamos el nombre del proyecto, este nombre debe ser único y no coincidir con algún proyecto existente en la plataforma. | Seleccionamos el cliente que pertenece el proyecto en la lista despegable. | Ingresamos la cantidad de horas totales de desarrollo del proyecto. | Ingresamos la cantidad de horas totales vendidas. | Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto. | Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto, estos pueden ser: En Curso, Cancelado, Terminado, En análisis, En espera cliente, En espera interno. | Seleccionamos de la lista despegable la fase en el que se encuentra el proyecto, estos pueden ser (En curso, En construcción, En preparación, En producción, Desarrollo, Requerimientos, Cancelado). | indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%. | . Finalmente, una vez rellenado todos los campos existentes para crear un proyecto finalizamos el proceso haciendo clic en “Crear proyecto” y esperamos la confirmación de la creación del proyecto. ",
+    "content": "Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde esta sección. A continuación, se detallará como agregar un nuevo proyecto. | Localizamos el botón de “Nuevo proyecto” en la parte superior derecha de la vista general. | Hacer clic en el botón. Se nos abrirá un modal con el formulario de alta de un proyecto donde vamos a rellenar todos los campos. | Ingresamos el nombre del proyecto, este nombre debe ser único y no coincidir con algún proyecto existente en la plataforma. | Seleccionamos el cliente que pertenece el proyecto en la lista despegable. | Seleccionamos el ejecutivo a cargo, seleccionamos primero el Area de donde se obtiene los ejecutivos y despues el ejecutivo a cargo, este campo es opcional . | Ingresamos la cantidad de horas totales de desarrollo del proyecto. | Ingresamos la cantidad de horas totales vendidas. | Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto. | Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto. Los estados disponibles son: . | En Curso: El proyecto se encuentra activo con tareas en progreso según la planificación establecida | Pausado: El proyecto ha sido temporalmente detenido por razones específicas (espera de recursos, reevaluación de prioridades, etc.) | Cerrado: El proyecto ha finalizado completamente, cumpliendo con los objetivos establecidos o por decisión de la dirección | . | Seleccionamos de la lista despegable la fase en la que se encuentra el proyecto. Las fases disponibles son: . | Inicio: El proyecto está en su etapa inicial donde se definen objetivos, alcance, se identifican interesados y se elabora el plan de trabajo | Desarrollo: El proyecto está en la fase principal de ejecución donde se realizan las actividades planificadas, se crean entregables y se monitorea el avance | Cierre: El proyecto está en su etapa final donde se completan y verifican los entregables, se documenta la finalización y se liberan recursos | . | . | indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%. | . Finalmente, una vez rellenado todos los campos existentes para crear un proyecto finalizamos el proceso haciendo clic en “Crear proyecto” y esperamos la confirmación de la creación del proyecto. ",
     "url": "/docs/proyectos.html#c%C3%B3mo-agregamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-agregamos-un-proyecto"
-  },"66": {
+  },"67": {
     "doc": "Proyectos",
     "title": "¿Cómo editamos un proyecto?",
     "content": "Esta sección también permitirá a los usuarios editar los proyectos existentes en caso de que se necesite. Para editar un proyecto deben seguir los siguientes pasos. | Localizamos en la tabla de proyectos la columna de ACCIONES . | Identificamos el icono designado para la edición (icono de lápiz). | Hacemos clic en el icono de edición. | Se volverá a abrir el mismo modal con el formulario esta vez con los datos del proyecto seleccionado. | Modificamos el cambio que se necesite. | Hacemos clic en “Guardar cambios” para que impacten en la aplicación. | . ",
     "url": "/docs/proyectos.html#c%C3%B3mo-editamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-editamos-un-proyecto"
-  },"67": {
+  },"68": {
     "doc": "Proyectos",
     "title": "¿Cómo eliminamos un proyecto?",
     "content": "En caso de que un proyecto haya sido concluido o desestimado, los usuarios podrán eliminarlo de la lista. La opción de “Eliminar proyecto” permitirá retirar de manera definitiva el proyecto seleccionado, asegurando que la lista de proyectos refleje siempre el estado actual de las tareas en curso, los proyectos solo se podrán eliminar si no tienen clientes y consultores asignados al proyecto. | Localizamos en la tabla proyectos la columna ACCIONES | Identificamos el icono designado para la eliminación de proyectos (icono con signo menos). | Hacemos clic en el icono de ‘Eliminar’. | A continuación, recibiremos una advertencia de que la acción no se puede deshacer. | Para que los cambios impacten en el sistema hacemos clic en el botón “Eliminar proyecto” para confirmar la acción. | . ",
     "url": "/docs/proyectos.html#c%C3%B3mo-eliminamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-eliminamos-un-proyecto"
-  },"68": {
+  },"69": {
     "doc": "Proyectos",
     "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". | Esta notificación de error alerta que se está queriendo eliminar un proyecto que tiene consultores asignados, verifique que el proyecto no tenga consultores asignados antes de eliminarlos. | Esta notificación alerta que cuando se intentó crear el proyecto hubo un fallo y no se pudo crear, puede llegar a deberse por problemas de conexión o tal vez de servidor, cerrar y volver a intentarlo. | Esta notificación advierte que no se pudieron obtener los datos de la sección, puede deberse a problemas de conexión . | . ",
     "url": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-sección-"
-  },"69": {
+  },"70": {
     "doc": "Versiones",
     "title": "Versiones",
-    "content": "| N° de Versión | Fecha | Detalle | . | 1 |   |   | . | 2 |   |   | . | 2.1 |   |   | . ",
+    "content": "| N° de Versión | Fecha | Detalle | . | 1 |   |   | . | 2 |   |   | . | 2.2.1 | 11/06/2025 | Mejoras:- [FEATURE] Implement project filtering and client selection components- [FEATURE] Restore and enable ‘Contratos’ section in navigation and routing- [FEATURE] Implement section-based access control in navigation and routing, add Access Denied page, and update user permissions on login- [FEATURE] Add project viewing functionality with modal and display componentsCorrecciones:- [FIX] Refactor FormEditPosition and SelectProject components: improve state management, enhance project loading logic, and update default values handlingActualizaciones:- [UPDATE] Display renewal count in modal description when available in position view | . ",
     "url": "/docs/versiones.html",
     
     "relUrl": "/docs/versiones.html"

@@ -10,8 +10,8 @@ nav_order: 3
 
 ## Vista general de la sección
 
-![](media/clientesvg.png)  
-En esta sección, los usuarios podrán acceder a una tabla detallada de los proyectos actuales que han sido cargados en la aplicación. Cada proyecto se presenta con información relevante y completa, que incluye el **nombre del proyecto**, el **cliente asociado**, las **fechas de inicio** y **finalización**, el **estado** actual del proyecto y la **fase** en la que se encuentra hasta el momento.  
+![](media/proyectos/proyectos.png)  
+En esta sección, los usuarios podrán acceder a una tabla detallada de los proyectos actuales que han sido cargados en la aplicación. Cada proyecto se presenta con información relevante y completa, que incluye el **nombre del proyecto**, el **cliente asociado**, las **fechas de inicio** y **finalización**, las **fechas de inicio real** y **fechas de fin real**, el **estado** actual del proyecto y la **fase** en la que se encuentra hasta el momento.  
 <br>
 Esta vista proporciona una visión general completa y actualizada de todos los proyectos en curso, lo que permite a los usuarios mantenerse al tanto del estado de proyecto y tomar decisiones informadas en función del progreso y las fechas límite. Además, la disponibilidad de información detallada sobre el cliente asociado en cada proyecto facilita la identificación rápida y precisa de los proyectos relacionados con cada cliente específico, optimizando así la eficiencia y organización en la gestión de múltiples proyectos y clientes.
 
@@ -22,9 +22,28 @@ Esta vista proporciona una visión general completa y actualizada de todos los p
 ![](media/buscador.png)  
 Para facilitar la búsqueda y organización de proyectos, el usuario podrá utilizar la función de filtrado.
 
+### Filtro por nombre
+
 1. Localizar el buscador ubicado en la parte superior izquierda de la vista general con la palabra "Buscar proyecto"
 2. Ingresar el nombre del proyecto que quiere buscar.
 3. A medida que se escribe el nombre del proyecto o nombre del cliente, la tabla comenzará a mostrar automáticamente los resultados coincidentes en tiempo real.
+
+![](media/proyectos/buscadoravanzado.png)  
+
+### Filtro por cliente
+
+1. Hacer clic en el selector desplegable de "Filtro por Cliente"
+2. Seleccionar el cliente específico cuyos proyectos desea visualizar
+3. La tabla se actualizará mostrando únicamente los proyectos asociados al cliente seleccionado
+
+### Filtro por rango de fechas
+
+1. Localizar los selectores de fecha "Desde" y "Hasta" en la barra de filtros
+2. Seleccionar la fecha inicial en el campo "Desde"
+3. Seleccionar la fecha final en el campo "Hasta"
+4. La tabla se actualizará mostrando únicamente los proyectos cuya fecha de inicio se encuentre dentro del rango seleccionado
+
+Los filtros pueden combinarse para realizar búsquedas más específicas. Por ejemplo, se pueden filtrar proyectos de un cliente específico que además se encuentren dentro de un determinado rango de fechas.
 
 ---
 
@@ -38,7 +57,7 @@ Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde 
 
 2. Hacer clic en el botón. Se nos abrirá un modal con el formulario de alta de un proyecto donde vamos a rellenar todos los campos.
 
-   ![](media/Creando Proyecto.png)
+   ![](media/proyectos/creandoproyectos.png)
 
 3. Ingresamos el nombre del proyecto, este nombre debe ser único y no coincidir con algún proyecto existente en la plataforma.
 
@@ -48,24 +67,39 @@ Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde 
 
    ![](media/buscarCliente.png)
 
-5. Ingresamos la cantidad de horas totales de desarrollo del proyecto.
+5. Seleccionamos el ejecutivo a cargo, seleccionamos primero el Area de donde se obtiene los ejecutivos y despues el ejecutivo a cargo, este campo es opcional
+
+   ![](media/proyectos/proyectosejecutivoacargo.png)
+
+
+6. Ingresamos la cantidad de horas totales de desarrollo del proyecto.
 
    ![](media/horasproyecto.png)
 
-6. Ingresamos la cantidad de horas totales vendidas.
+7. Ingresamos la cantidad de horas totales vendidas.
 
    ![](media/cantidadHorasVendidas.png)
 
-7. Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto.
+8. Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto.
    ![](media/fechaInicio.png)
 
-8. Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto, estos pueden ser: En Curso, Cancelado, Terminado, En análisis, En espera cliente, En espera interno.
-   ![](media/selectEstado.png)
+9. Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto. Los estados disponibles son:
+   - **En Curso**: El proyecto se encuentra activo con tareas en progreso según la planificación establecida
+   - **Pausado**: El proyecto ha sido temporalmente detenido por razones específicas (espera de recursos, reevaluación de prioridades, etc.)
+   - **Cerrado**: El proyecto ha finalizado completamente, cumpliendo con los objetivos establecidos o por decisión de la dirección
+   
+   
+   ![](media/proyectos/proyectoestados.png)
 
-9. Seleccionamos de la lista despegable la fase en el que se encuentra el proyecto, estos pueden ser (En curso, En construcción, En preparación, En producción, Desarrollo, Requerimientos, Cancelado).
-   ![](media/SelectEstadoProyecto.png)
+10. Seleccionamos de la lista despegable la fase en la que se encuentra el proyecto. Las fases disponibles son:
+   - **Inicio**: El proyecto está en su etapa inicial donde se definen objetivos, alcance, se identifican interesados y se elabora el plan de trabajo
+   - **Desarrollo**: El proyecto está en la fase principal de ejecución donde se realizan las actividades planificadas, se crean entregables y se monitorea el avance
+   - **Cierre**: El proyecto está en su etapa final donde se completan y verifican los entregables, se documenta la finalización y se liberan recursos
+   
+   
+   ![](media/proyectos/proyectosfase.png)
 
-10. indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%.
+11. indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%.
     ![](media/proyecto.png)
 
 Finalmente, una vez rellenado todos los campos existentes para crear un proyecto finalizamos el proceso haciendo clic en "Crear proyecto" y esperamos la confirmación de la creación del proyecto.

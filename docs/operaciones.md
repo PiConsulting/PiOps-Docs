@@ -9,7 +9,7 @@ nav_order: 6
 {: .no_toc }
 La sección de Operaciones es el núcleo de la aplicación, donde los usuarios pueden gestionar y visualizar información crucial relacionada con un cliente específico y un rango de fechas determinado. Al ingresar a esta sección, los usuarios deberán seleccionar el cliente de interés y, de manera opcional, pueden ajustar el rango de fechas para obtener datos precisos. Por defecto, se mostrarán los datos con la fecha actual como inicio y el día siguiente como fecha de finalización.
 
-![](media/operaciones/vistaoperacion.jpeg)
+![](media/operaciones/vistaoperacion.png)
 
 ## Vista General
 
@@ -143,4 +143,12 @@ También podemos retirar a un consultor que esté actualmente asignado a una pos
 Este error significa que no se pudo llevar a cabo el proceso de asignación. Generalmente, puede deberse a algún conflicto en la base de datos o problemas de conexión. Intente nuevamente. Si el error persiste, comuníquese con soporte.<br>
 
 ![](media/operaciones/error2.png)  
-Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte.
+Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte.<br>
+
+![](media/operaciones/fteoperaciones.png)  
+**FTE excedido. El consultor no puede tener más de 1.25 FTE asignados, Disponible para asignar: FTE.**  
+Este error aparece cuando intentamos asignar a un consultor más tiempo del disponible según su capacidad máxima. El sistema limita la asignación total a 1.25 FTE por consultor. El mensaje indicará específicamente cuánto FTE tiene aún disponible para asignar.<br>
+
+![](media/operaciones/guardar.png)  
+**Asignaciones actualizadas (Guardar cambios para actualizar en la base de datos)**  
+Este mensaje aparece como recordatorio de que aunque los cambios se han registrado en la interfaz, es necesario hacer clic en el botón "Guardar cambios" para que estos se apliquen permanentemente en la base de datos.
