@@ -1,0 +1,14 @@
+<!-- Custom head for handling baseurl in assets -->
+<script>
+  // Ensure that Jekyll baseurl is available to JavaScript
+  window.baseurl = '{{ site.baseurl }}';
+</script>
+
+<!-- Override default asset paths if needed -->
+{% assign assets_path = site.baseurl | append: "/assets" %}
+<link rel="stylesheet" href="{{ assets_path }}/css/just-the-docs-default.css">
+<link rel="stylesheet" href="{{ assets_path }}/css/just-the-docs-head-nav.css">
+
+<!-- Preload critical JavaScript -->
+<link rel="preload" href="{{ assets_path }}/js/vendor/lunr.min.js" as="script">
+<link rel="preload" href="{{ assets_path }}/js/just-the-docs.js" as="script">

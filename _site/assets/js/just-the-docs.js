@@ -89,6 +89,7 @@ function initSearch() {
         this.ref('id');
         this.field('title', { boost: 200 });
         this.field('content', { boost: 2 });
+        this.field('relUrl');
         this.metadataWhitelist = ['position']
 
         for (var i in docs) {
@@ -97,6 +98,7 @@ function initSearch() {
             id: i,
             title: docs[i].title,
             content: docs[i].content,
+            relUrl: docs[i].relUrl
           });
         }
       });
@@ -351,6 +353,10 @@ function searchLoaded(index, docs) {
           }
         }
       }
+      var resultRelUrl = document.createElement('span');
+      resultRelUrl.classList.add('search-result-rel-url');
+      resultRelUrl.innerText = doc.relUrl;
+      resultTitle.appendChild(resultRelUrl);
     }
 
     function addHighlightedText(parent, text, start, end, positions) {
