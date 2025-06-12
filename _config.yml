@@ -6,11 +6,31 @@ nav_sort: case_sensitive
 title: PiOps-Docs
 author: Pi Consulting
 email: info@piconsulting.com.ar
-# logo: "/assets/images/logo.png"
+logo: "/PiOps-Docs/logo.png"
 description: > # this means to ignore newlines until "baseurl:"
   Creamos una plataforma web para que las empresas logren administrar sus clientes, asignaciones, posiciones y consultores. Esto agiliza muchos procesos que actualmente se hacen en persona o a través de un equipo administrativo grande. ​
 url: https://piconsulting.github.io
 baseurl: /PiOps-Docs
+# Configuración adicional para Just the Docs
+aux_links:
+  "PiOps en GitHub":
+    - "https://github.com/piconsulting/PiOps-Docs"
+aux_links_new_tab: true
+heading_anchors: true
+# Asegurarse de que Just the Docs resuelve correctamente las rutas
+search_enabled: true
+search:
+  rel_url: false
+
+# Configuración de assets y paths
+relative_links:
+  enabled: true
+  collections: false
+
+# Plugin configuration
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!

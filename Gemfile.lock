@@ -285,6 +285,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-relative-links
   jekyll-remote-theme
   just-the-docs (= 0.6.0)
   webrick (~> 1.8)

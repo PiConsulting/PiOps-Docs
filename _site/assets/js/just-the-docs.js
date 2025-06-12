@@ -77,7 +77,7 @@ function disableHeadStyleSheets() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '/assets/js/search-data.json', true);
+  request.open('GET', '/PiOps-Docs/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -89,7 +89,6 @@ function initSearch() {
         this.ref('id');
         this.field('title', { boost: 200 });
         this.field('content', { boost: 2 });
-        this.field('relUrl');
         this.metadataWhitelist = ['position']
 
         for (var i in docs) {
@@ -98,7 +97,6 @@ function initSearch() {
             id: i,
             title: docs[i].title,
             content: docs[i].content,
-            relUrl: docs[i].relUrl
           });
         }
       });
@@ -353,10 +351,6 @@ function searchLoaded(index, docs) {
           }
         }
       }
-      var resultRelUrl = document.createElement('span');
-      resultRelUrl.classList.add('search-result-rel-url');
-      resultRelUrl.innerText = doc.relUrl;
-      resultTitle.appendChild(resultRelUrl);
     }
 
     function addHighlightedText(parent, text, start, end, positions) {
@@ -456,7 +450,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', '/PiOps-Docs/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Note: pathname can have a trailing slash on a local jekyll server

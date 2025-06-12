@@ -2,497 +2,497 @@
     "doc": "Clientes",
     "title": "Clientes",
     "content": " ",
-    "url": "/docs/clientes.html",
+    "url": "/PiOps-Docs/docs/clientes.html",
     
     "relUrl": "/docs/clientes.html"
   },"1": {
     "doc": "Clientes",
     "title": "Vista general de la sección",
     "content": "En esta pantalla podremos ver los clientes en la tabla, poder agregar un nuevo cliente, modificarlo y/o eliminarlo. También podremos hacer una búsqueda de los clientes dentro de la tabla. ",
-    "url": "/docs/clientes.html#vista-general-de-la-secci%C3%B3n",
+    "url": "/PiOps-Docs/docs/clientes.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/clientes.html#vista-general-de-la-sección"
   },"2": {
     "doc": "Clientes",
     "title": "En la tabla encontramos los siguientes datos",
     "content": "Nombre Indica el nombre del cliente. Categoría Indica la categoría en la que se encuentra el cliente. Industria Indica en que industria se encuentra el cliente. Contacto Indica el contacto de cada cliente. Acciones Indica las acciones que podemos hacer en la tabla (editar y/o eliminar). Editar: El usuario cuenta con la posibilidad de editar el cliente actual. Eliminar: El usuario cuenta con la posibilidad de eliminar un cliente. ",
-    "url": "/docs/clientes.html#en-la-tabla-encontramos-los-siguientes-datos",
+    "url": "/PiOps-Docs/docs/clientes.html#en-la-tabla-encontramos-los-siguientes-datos",
     
     "relUrl": "/docs/clientes.html#en-la-tabla-encontramos-los-siguientes-datos"
   },"3": {
     "doc": "Clientes",
     "title": "¿Cómo agregamos un cliente?",
     "content": ". | Para comenzar, dirígete al botón en la esquina superior derecha etiquetado como “Nuevo cliente”. | Una vez que hagas clic en este botón, aparecerá una ventana emergente como la siguiente: . Aquí es donde ingresamos los detalles del nuevo cliente: . | Cliente: Ingresa el nombre del cliente que deseas agregar. | . | Continuamos con los siguientes pasos: . | Categoría: Selecciona la categoría a la que pertenece el cliente. | Industria: Escoge la industria a la que está asociado el cliente. | . | Finalmente, agregamos la información de contacto del cliente y procedemos: . | Contacto: Agrega la información de contacto del cliente. | . | Luego de haber completado todos los campos necesarios y estés seguro de que la información es correcta, haz clic en el botón “Agregar cliente”. Esto creará el nuevo registro del cliente y verás una notificación como la siguiente: . | . ",
-    "url": "/docs/clientes.html#c%C3%B3mo-agregamos-un-cliente",
+    "url": "/PiOps-Docs/docs/clientes.html#c%C3%B3mo-agregamos-un-cliente",
     
     "relUrl": "/docs/clientes.html#cómo-agregamos-un-cliente"
   },"4": {
     "doc": "Clientes",
     "title": "¿Cómo editamos un cliente?",
     "content": ". | Lo primero que tenemos que hacer es ir al cliente que queremos editar en la pantalla. | Apretar el siguiente botón dentro de la fila del cliente requerido. | Nos aparecerá una pantalla con los datos del cliente, desde ahí podemos hacer la modificación que requerimos. | Una vez que estemos seguros de nuestras modificaciones hacemos click al botón “Guardar cambios”, esperamos que la modificación esté lista y nos deberá aparecer una notificación (arriba a la derecha) con la siguiente información: . | . ",
-    "url": "/docs/clientes.html#c%C3%B3mo-editamos-un-cliente",
+    "url": "/PiOps-Docs/docs/clientes.html#c%C3%B3mo-editamos-un-cliente",
     
     "relUrl": "/docs/clientes.html#cómo-editamos-un-cliente"
   },"5": {
     "doc": "Clientes",
     "title": "¿Cómo eliminamos un cliente?",
     "content": ". | Lo primero que tenemos que hacer es ir al cliente que queremos eliminar en la pantalla. | Apretar el siguiente botón dentro de la fila del cliente requerido: . | Nos aparecerá un pop up comentando cómo afecta esta acción a los datos que están a punto de perderse. | Si estamos seguros de hacer esta acción, hacemos clic en el botón “Eliminar cliente”. | . ",
-    "url": "/docs/clientes.html#c%C3%B3mo-eliminamos-un-cliente",
+    "url": "/PiOps-Docs/docs/clientes.html#c%C3%B3mo-eliminamos-un-cliente",
     
     "relUrl": "/docs/clientes.html#cómo-eliminamos-un-cliente"
   },"6": {
     "doc": "Clientes",
     "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error. Podrías tener este error si el cliente tiene otras entidades relacionadas y al borrarlo se rompe la integridad. Podrías tener algún error de estos si el cliente sigue vigente con la empresa. ",
-    "url": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
+    "url": "/PiOps-Docs/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/clientes.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"7": {
     "doc": "Clientes",
     "title": "Clientes",
     "content": "Just the Docs has some specific configuration parameters that can be defined in your Jekyll site’s _config.yml file. ",
-    "url": "/docs/configuration.html",
+    "url": "/PiOps-Docs/docs/configuration.html",
     
     "relUrl": "/docs/configuration.html"
   },"8": {
     "doc": "Clientes",
     "title": "Table of contents",
     "content": ". | Site logo | Site favicon | Search | Mermaid Diagrams | Aux links | Heading anchor links | External navigation links | Footer content | Color scheme | Callouts | Google Analytics | Document collections | . View this site’s _config.yml file as an example. ",
-    "url": "/docs/configuration.html#table-of-contents",
+    "url": "/PiOps-Docs/docs/configuration.html#table-of-contents",
     
     "relUrl": "/docs/configuration.html#table-of-contents"
   },"9": {
     "doc": "Clientes",
     "title": "Site logo",
     "content": "# Set a path/url to a logo that will be displayed instead of the title logo: \"/assets/images/just-the-docs.png\" . ",
-    "url": "/docs/configuration.html#site-logo",
+    "url": "/PiOps-Docs/docs/configuration.html#site-logo",
     
     "relUrl": "/docs/configuration.html#site-logo"
   },"10": {
     "doc": "Clientes",
     "title": "Site favicon",
     "content": "# Set a path/url to a favicon that will be displayed by the browser favicon_ico: \"/assets/images/favicon.ico\" . If the path to your favicon is /favicon.ico, you can leave favicon_ico unset. ",
-    "url": "/docs/configuration.html#site-favicon",
+    "url": "/PiOps-Docs/docs/configuration.html#site-favicon",
     
     "relUrl": "/docs/configuration.html#site-favicon"
   },"11": {
     "doc": "Clientes",
     "title": "Search",
     "content": "# Enable or disable the site search # Supports true (default) or false search_enabled: true search: # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 heading_level: 2 # Maximum amount of previews per search result # Default: 3 previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 preview_words_after: 10 # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words tokenizer_separator: /[\\s/]+/ # Display the relative url in search results # Supports true (default) or false rel_url: true # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) button: false . ",
-    "url": "/docs/configuration.html#search",
+    "url": "/PiOps-Docs/docs/configuration.html#search",
     
     "relUrl": "/docs/configuration.html#search"
   },"12": {
     "doc": "Clientes",
     "title": "Mermaid Diagrams",
     "content": "New (v0.4.0) . The minimum configuration requires the key for version (from jsDelivr) in _config.yml: . mermaid: # Version of mermaid library # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/ version: \"9.1.3\" . Provide a path instead of a version key to load the mermaid library from a local file. See for more configuration options and information. ",
-    "url": "/docs/configuration.html#mermaid-diagrams",
+    "url": "/PiOps-Docs/docs/configuration.html#mermaid-diagrams",
     
     "relUrl": "/docs/configuration.html#mermaid-diagrams"
   },"13": {
     "doc": "Clientes",
     "title": "Aux links",
     "content": "# Aux links for the upper right navigation aux_links: # Makes Aux links open in a new tab. Default is false aux_links_new_tab: false . ",
-    "url": "/docs/configuration.html#aux-links",
+    "url": "/PiOps-Docs/docs/configuration.html#aux-links",
     
     "relUrl": "/docs/configuration.html#aux-links"
   },"14": {
     "doc": "Clientes",
     "title": "Heading anchor links",
     "content": "# Heading anchor links appear on hover over h1-h6 tags in page content # allowing users to deep link to a particular heading on a page. # # Supports true (default) or false heading_anchors: true . ",
-    "url": "/docs/configuration.html#heading-anchor-links",
+    "url": "/PiOps-Docs/docs/configuration.html#heading-anchor-links",
     
     "relUrl": "/docs/configuration.html#heading-anchor-links"
   },"15": {
     "doc": "Clientes",
     "title": "External navigation links",
     "content": "New (v0.4.0) . External links can be added to the navigation through the nav_external_links option. See Navigation Structure for more details. ",
-    "url": "/docs/configuration.html#external-navigation-links",
+    "url": "/PiOps-Docs/docs/configuration.html#external-navigation-links",
     
     "relUrl": "/docs/configuration.html#external-navigation-links"
   },"16": {
     "doc": "Clientes",
     "title": "Footer content",
     "content": "# Footer content # appears at the bottom of every page's main content # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content. footer_content: \"Copyright &amp;copy; 2017-2020 Patrick Marsceill. Distributed by an &lt;a href=\\\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\\\"&gt;MIT license.&lt;/a&gt;\" # Footer last edited timestamp last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter last_edit_time_format: \"%b %e %Y at %I:%M %p\" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html # Footer \"Edit this page on GitHub\" link text gh_edit_link: true # show or hide edit this page link gh_edit_link_text: \"Edit this page on GitHub.\" gh_edit_repository: \"https://github.com/just-the-docs/just-the-docs\" # the github URL for your repo gh_edit_branch: \"main\" # the branch that your docs is served from # gh_edit_source: docs # the source that your files originate from gh_edit_view_mode: \"tree\" # \"tree\" or \"edit\" if you want the user to jump into the editor immediately . note: footer_content is deprecated, but still supported. For a better experience we have moved this into an include called _includes/footer_custom.html which will allow for robust markup / liquid-based content. | the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format | last_edit_time_format uses Ruby’s DateTime formatter; see examples and more information at this link. | gh_edit_repository is the URL of the project’s GitHub repository | gh_edit_branch is the branch that the docs site is served from; defaults to main | gh_edit_source is the source directory that your project files are stored in (should be the same as site.source) | gh_edit_view_mode is \"tree\" by default, which brings the user to the github page; switch to \"edit\" to bring the user directly into editing mode | . ",
-    "url": "/docs/configuration.html#footer-content",
+    "url": "/PiOps-Docs/docs/configuration.html#footer-content",
     
     "relUrl": "/docs/configuration.html#footer-content"
   },"17": {
     "doc": "Clientes",
     "title": "Color scheme",
     "content": "# Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . See Customization for more information. ",
-    "url": "/docs/configuration.html#color-scheme",
+    "url": "/PiOps-Docs/docs/configuration.html#color-scheme",
     
     "relUrl": "/docs/configuration.html#color-scheme"
   },"18": {
     "doc": "Clientes",
     "title": "Callouts",
     "content": "New (v0.4.0) . To use this feature, you need to configure a color and (optionally) title for each kind of callout you want to use, e.g.: . callouts: warning: title: Warning color: red . This uses the color $red-000 for the background of the callout, and $red-300 for the title and box decoration.1 You can then style a paragraph as a warning callout like this: . {: .warning } A paragraph... The colors grey-lt, grey-dk, purple, blue, green, yellow, and red are predefined; to use a custom color, you need to define its 000 and 300 levels in your SCSS files. For example, to use pink, add the following to your _sass/custom/setup.scss file: . $pink-000: #f77ef1; $pink-100: #f967f1; $pink-200: #e94ee1; $pink-300: #dd2cd4; . You can override the default opacity of the background for a particular callout, e.g.: . callouts: custom: color: pink opacity: 0.3 . You can change the default opacity (0.2) for all callouts, e.g.: . callouts_opacity: 0.3 . You can also adjust the overall level of callouts. The value of callouts_level is either quiet or loud; loud increases the saturation and lightness of the backgrounds. The default level is quiet when using the light or custom color schemes, and loud when using the dark color scheme. See for more information. ",
-    "url": "/docs/configuration.html#callouts",
+    "url": "/PiOps-Docs/docs/configuration.html#callouts",
     
     "relUrl": "/docs/configuration.html#callouts"
   },"19": {
     "doc": "Clientes",
     "title": "Google Analytics",
     "content": "Google Analytics 4 will replace Universal Analytics. On July 1, 2023, standard Universal Analytics properties will stop processing new hits. The earlier you migrate, the more historical data and insights you will have in Google Analytics 4. Universal Analytics (UA) and Google Analytics 4 (GA4) properties are supported. # Google Analytics Tracking (optional) # Supports a CSV of tracking ID strings (eg. \"UA-1234567-89,G-1AB234CDE5\") ga_tracking: UA-2709176-10 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default) . Multiple IDs . New (v0.4.0) . This theme supports multiple comma-separated tracking IDs. This helps seamlessly transition UA properties to GA4 properties by tracking both for a while. ga_tracking: \"UA-1234567-89,G-1AB234CDE5\" . ",
-    "url": "/docs/configuration.html#google-analytics",
+    "url": "/PiOps-Docs/docs/configuration.html#google-analytics",
     
     "relUrl": "/docs/configuration.html#google-analytics"
   },"20": {
     "doc": "Clientes",
     "title": "Document collections",
     "content": "By default, the navigation and search include normal pages. You can also use Jekyll collections which group documents semantically together. Collection folders always start with an underscore (_), e.g. _tests. You won’t see your collections if you omit the prefix. For example, put all your test files in the _tests folder and create the tests collection: . # Define Jekyll collections collections: # Define a collection named \"tests\", its documents reside in the \"_tests\" directory tests: permalink: \"/:collection/:path/\" output: true just_the_docs: # Define which collections are used in just-the-docs collections: # Reference the \"tests\" collection tests: # Give the collection a name name: Tests # Exclude the collection from the navigation # Supports true or false (default) # nav_exclude: true # Fold the collection in the navigation # Supports true or false (default) # nav_fold: true # note: this option is new in v0.4 # Exclude the collection from the search # Supports true or false (default) # search_exclude: true . The navigation for all your normal pages (if any) is displayed before those in collections. You can reference multiple collections. This creates categories in the navigation with the configured names. collections: tests: permalink: \"/:collection/:path/\" output: true tutorials: permalink: \"/:collection/:path/\" output: true just_the_docs: collections: tests: name: Tests tutorials: name: Tutorials . When all your pages are in a single collection, its name is not displayed. The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page. | If you use the dark color scheme, this callout uses $red-300 for the background, and $red-000 for the title. &#8617; . | . ",
-    "url": "/docs/configuration.html#document-collections",
+    "url": "/PiOps-Docs/docs/configuration.html#document-collections",
     
     "relUrl": "/docs/configuration.html#document-collections"
   },"21": {
     "doc": "Consultores",
     "title": "Consultores",
     "content": " ",
-    "url": "/docs/consultores.html",
+    "url": "/PiOps-Docs/docs/consultores.html",
     
     "relUrl": "/docs/consultores.html"
   },"22": {
     "doc": "Consultores",
     "title": "Vista general de la sección",
     "content": "En esta pantalla podremos ver los consultores en la tabla, poder agregar un nuevo consultor, modificarlo y/o eliminarlo. También podremos hacer una búsqueda de los consultores dentro de la tabla. ",
-    "url": "/docs/consultores.html#vista-general-de-la-secci%C3%B3n",
+    "url": "/PiOps-Docs/docs/consultores.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/consultores.html#vista-general-de-la-sección"
   },"23": {
     "doc": "Consultores",
     "title": "En la tabla podemos encontrar los siguientes datos",
     "content": "Apellido . Apellido del consultor. Nombre . Nombre del consultor. País . País del consultor. Seniority . Seniority del consultor. Área . Area en el que se encuentra el consultor. Nivel de inglés . Nivel de inglés que tenga el consultor. Contratado . Si se encuentra contratado o no el consultor. Acciones . Son todas las acciones que podemos hacer en los consultores (editar y/o eliminar). | Editar: El usuario cuenta con la posibilidad de editar el consultor actual | Eliminar: El usuario cuenta con la posibilidad de eliminar un consultor | . ",
-    "url": "/docs/consultores.html#en-la-tabla-podemos-encontrar-los-siguientes-datos",
+    "url": "/PiOps-Docs/docs/consultores.html#en-la-tabla-podemos-encontrar-los-siguientes-datos",
     
     "relUrl": "/docs/consultores.html#en-la-tabla-podemos-encontrar-los-siguientes-datos"
   },"24": {
     "doc": "Consultores",
     "title": "¿Cómo creamos un nuevo consultor?",
     "content": ". | Para poder agregar a un nuevo consultor hacemos clic en el botón de arriba a la derecha llamado “Nuevo consultor”. | Al hacer clic en el botón nos aparecerá la siguiente pantalla . Apellido Apellido del consultor. Nombre Nombre del consultor. Legajo Legajo del consultor. País País del consultor. Seniority Seniority del consultor. Área Área en el que se encuentra el consultor. Disponibilidad Es la disponibilidad de tiempo que posee el consultor (es de 0 a 1). Contrato Si se encuentra contratado o no el consultor. Fecha de inicio Fecha de inicio que entro empezó el consultor. Fecha de final Fecha finalización de trabajo del consultor. Nivel de inglés Nivel de inglés que tenga el consultor. Consultor asignado (Opcional) Si el consultor está asignado se pone “si” y si no lo esta se pone “no” (recordemos que esta acción es opcional). | Completamos los datos y una vez que estamos seguros de tener los datos correctos, apretamos el botón llamado “Agregar consultor” para poder agregar un nuevo consultor y esperamos que se cargue el nuevo consultor. Nos aparecerá la siguiente notificación: . | . ",
-    "url": "/docs/consultores.html#c%C3%B3mo-creamos-un-nuevo-consultor",
+    "url": "/PiOps-Docs/docs/consultores.html#c%C3%B3mo-creamos-un-nuevo-consultor",
     
     "relUrl": "/docs/consultores.html#cómo-creamos-un-nuevo-consultor"
   },"25": {
     "doc": "Consultores",
     "title": "¿Cómo editamos un consultor?",
     "content": ". | Lo primero que tenemos que hacer es ir al consultor que queremos editar en la pantalla . | Apretamos el siguiente botón dentro de la fila del consultor requerido: . | Nos abrirá una nueva pantalla (Igual a la pantalla de Agregar consultor) con los datos del consultor, desde ahí podemos hacer la modificación que requerimos. | Una vez que estemos seguros de nuestras modificaciones hacemos click al botón “Guardar consultor”, esperamos que la modificación esté lista y nos deberá aparecer una notificación (arriba a la derecha) con la siguiente información: . | . ",
-    "url": "/docs/consultores.html#c%C3%B3mo-editamos-un-consultor",
+    "url": "/PiOps-Docs/docs/consultores.html#c%C3%B3mo-editamos-un-consultor",
     
     "relUrl": "/docs/consultores.html#cómo-editamos-un-consultor"
   },"26": {
     "doc": "Consultores",
     "title": "¿Cómo eliminamos un consultor?",
     "content": ". | Lo primero que tenemos que hacer es ir al consultor que queremos eliminar en la pantalla . | Apretamos el siguiente botón dentro de la fila del consultor requerido: . | Nos va a abrir una nueva pantalla consultándonos si estamos seguros de eliminar el consultor. | Si estamos seguros de hacer esta acción, hacemos clic en el botón “Eliminar consultor”. | Si todo está correcto y se eliminó el consultor nos aparecerá una notificación, avisando que se ha eliminado el consultor. | . ",
-    "url": "/docs/consultores.html#c%C3%B3mo-eliminamos-un-consultor",
+    "url": "/PiOps-Docs/docs/consultores.html#c%C3%B3mo-eliminamos-un-consultor",
     
     "relUrl": "/docs/consultores.html#cómo-eliminamos-un-consultor"
   },"27": {
     "doc": "Consultores",
     "title": "¿Cómo vemos el total de consultores?",
     "content": ". | Para poder ver todos los consultores debemos enfocarnos dentro de la tabla: . | Dentro de la tabla vamos a encontrar arriba a la derecha para seleccionar si queremos mostrar todos los consultores o no. | Si apretamos la casilla de verificación que nos muestra, ahí nos aparecerán todos los consultores como en la siguiente imagen: . | Si miramos en la paginación veremos que hubo un cambio en el total de la paginación indicándonos que estamos mostrando todos los consultores (antes eran 5 páginas, ahora son 7). | Si queremos volver a mostrar los consultores que nos mostraba en un inicio, volvemos a dar click nuevamente en la casilla de verificación y volverá todo como el principio. | . ",
-    "url": "/docs/consultores.html#c%C3%B3mo-vemos-el-total-de-consultores",
+    "url": "/PiOps-Docs/docs/consultores.html#c%C3%B3mo-vemos-el-total-de-consultores",
     
     "relUrl": "/docs/consultores.html#cómo-vemos-el-total-de-consultores"
   },"28": {
     "doc": "Consultores",
     "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". Si tenemos algún error por falta de algún campo requerido al guardar vamos a tener este error. No se podrá borrar algún consultor que sigue activo en algún proyecto. ",
-    "url": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
+    "url": "/PiOps-Docs/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/consultores.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"29": {
     "doc": "Customization",
     "title": "Customization",
     "content": " ",
-    "url": "/docs/customization.html",
+    "url": "/PiOps-Docs/docs/customization.html",
     
     "relUrl": "/docs/customization.html"
   },"30": {
     "doc": "Customization",
     "title": "Table of contents",
     "content": ". | Color schemes | Custom schemes . | Define a custom scheme | Use a custom scheme | Switchable custom scheme | . | Override and define new variables | Override and completely custom styles | Override includes . | Custom TOC Heading | Custom Footer | Custom Head | Custom Header | Custom Nav Footer | Custom Search Placeholder | . | Custom layouts and includes . | Default layout and includable components | Alternative layouts and example (minimal) | Default layout and inheritance chain | Overridden default Jekyll layouts | . | . ",
-    "url": "/docs/customization.html#table-of-contents",
+    "url": "/PiOps-Docs/docs/customization.html#table-of-contents",
     
     "relUrl": "/docs/customization.html#table-of-contents"
   },"31": {
     "doc": "Customization",
     "title": "Color schemes",
     "content": "Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the color_scheme parameter in your site’s _config.yml file: . Example . # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . deprecated: legacy_light . New (v0.4.2) . In Just the Docs version 0.4.2, we changed the default syntax highlighting theme for the light color scheme to have higher contrast. Users who are want to use the old highlighting need to explicitly opt-in with the deprecated legacy_light color scheme. In a future major release of Just the Docs, we will remove this color scheme. ",
-    "url": "/docs/customization.html#color-schemes",
+    "url": "/PiOps-Docs/docs/customization.html#color-schemes",
     
     "relUrl": "/docs/customization.html#color-schemes"
   },"32": {
     "doc": "Customization",
     "title": "Custom schemes",
     "content": "Define a custom scheme . You can add custom schemes. If you want to add a scheme named foo (can be any name) just add a file _sass/color_schemes/foo.scss (replace foo by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Since the default color scheme is light, your custom scheme is implicitly based on the variable settings used by the light scheme. If you want your custom scheme to be based on the dark scheme, you need to start your file with the following line: . @import \"./color_schemes/dark\"; . You can define custom schemes based on other custom schemes in the same way. Available variables are listed in the _variables.scss file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: . Example . $link-color: $blue-000; . Keep in mind that changing a variable will not automatically change the value of other variables that depend on it. For example, the default link color ($link-color) is set to $purple-000. However, redefining $purple-000 in a custom color scheme will not automatically change $link-color to match it. Instead, each variable that relies on previously-cascaded values must be manually reimplemented by copying the dependent rules from _variables.scss — in this case, rewriting $link-color: $purple-000;. Note: Editing the variables directly in _sass/support/variables.scss is not recommended and can cause other dependencies to fail. Please use scheme files. Use a custom scheme . To use the custom color scheme, only set the color_scheme parameter in your site’s _config.yml file: . color_scheme: foo . Switchable custom scheme . If you want to be able to change the scheme dynamically, for example via javascript, just add a file assets/css/just-the-docs-foo.scss (replace foo by your scheme name) with the following content: . --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} . This allows you to switch the scheme via the following javascript. jtd.setTheme(\"foo\") . ",
-    "url": "/docs/customization.html#custom-schemes",
+    "url": "/PiOps-Docs/docs/customization.html#custom-schemes",
     
     "relUrl": "/docs/customization.html#custom-schemes"
   },"33": {
     "doc": "Customization",
     "title": "Override and define new variables",
     "content": "New (v0.4.0) . To define new SCSS variables or functions, place SCSS code in _sass/custom/setup.scss. This should not be used for defining custom styles (see the next section) or overriding color scheme variables (in this case, you should create a new color scheme). This is most commonly-used to define custom callout colors. For example, . // _sass/custom/setup.scss $pink-000: #f77ef1; $pink-100: #f967f1; $pink-200: #e94ee1; $pink-300: #dd2cd4; . In particular: this file is imported after the theme’s variables and functions are defined, but before any CSS classes are emitted. ",
-    "url": "/docs/customization.html#override-and-define-new-variables",
+    "url": "/PiOps-Docs/docs/customization.html#override-and-define-new-variables",
     
     "relUrl": "/docs/customization.html#override-and-define-new-variables"
   },"34": {
     "doc": "Customization",
     "title": "Override and completely custom styles",
     "content": "For styles that aren’t defined as SCSS variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file _sass/custom/custom.scss. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you’d like to add your own styles for printing a page, you could add the following styles. Example . // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em; } } . ",
-    "url": "/docs/customization.html#override-and-completely-custom-styles",
+    "url": "/PiOps-Docs/docs/customization.html#override-and-completely-custom-styles",
     
     "relUrl": "/docs/customization.html#override-and-completely-custom-styles"
   },"35": {
     "doc": "Customization",
     "title": "Override includes",
     "content": "You can customize the theme by overriding any of the custom Jekyll includes files that it provides. To do this, create an _includes directory and make a copy of the specific file you wish to modify. The content in this file will override the theme defaults. You can learn more about this process in the Jekyll docs for Overriding theme defaults. Just the Docs provides the following custom includes files: . Custom TOC Heading . New (v0.4.0) . _includes/toc_heading_custom.html . If the page has any child pages, and has_toc is not set to false, this content appears as a heading above the auto-generating list of child pages after the page’s content. Example . To change the default TOC heading to “Contents”, create _includes/toc_heading_custom.html and add: . &lt;h2 class=\"text-delta\"&gt;Contents&lt;/h2&gt; . The (optional) text-delta class makes the heading appear as Contents . Custom Footer . _includes/footer_custom.html . This content appears at the bottom of every page’s main content. More info for this include can be found in the Configuration - Footer content. Custom Head . _includes/head_custom.html . Any HTML added to this file will be inserted before the closing &lt;head&gt; tag. This might include additional &lt;meta&gt;, &lt;link&gt;, or &lt;script&gt; tags. The &lt;head&gt; tag automatically includes a link to an existing favicon if you set favicon_ico to the corresponding path in your configuration, or if the path to the favicon is /favicon.ico. Custom Header . _includes/header_custom.html . Content added to this file appears at the top of every page’s main content between the site search and auxiliary links if they are enabled. If search_enabled were set to false and aux_links were removed, the content of header_custom.html would occupy the space at the top of every page. Custom Nav Footer . New (v0.4.0) . _includes/nav_footer_custom.html . Any content added to this file will appear at the bottom left of the page below the site’s navigation. By default an attribution to Just the Docs is displayed which reads, This site uses Just the Docs, a documentation theme for Jekyll.. Custom Search Placeholder . New (v0.4.0) . _includes/search_placeholder_custom.html . Content added to this file will replace the default placeholder text in the search bar (and its aria-label), after stripping HTML and leading/trailing whitespace. By default, the content of the include is: . Search {{site.title}} . Override this file to render a custom placeholder. One common use-case is internationalization; for example, . Chercher notre site . would make the placeholder text “Chercher notre site”. Liquid code (including Jekyll variables) is also supported. ",
-    "url": "/docs/customization.html#override-includes",
+    "url": "/PiOps-Docs/docs/customization.html#override-includes",
     
     "relUrl": "/docs/customization.html#override-includes"
   },"36": {
     "doc": "Customization",
     "title": "Custom layouts and includes",
     "content": "New (v0.4.0) . Advanced . Just the Docs uses Jekyll’s powerful layouts and includes features to generate and compose various elements of the site. Jekyll users and developers can extend or replace existing layouts and includes to customize the entire site layout. Default layout and includable components . The default layout is inherited by most of the “out-of-the-box” pages provided by Just the Docs. It composes various re-usable components of the site, including the sidebar, navbar, footer, breadcrumbs, and various imports. Most users who create new pages or layouts will inherit from default. Here is a simplified code example of what it looks like: . &lt;!-- a simplified version of _layouts/default.html --&gt; &lt;html&gt; {% include head.html %} &lt;body&gt; {% include icons/icons.html %} {% include components/sidebar.html %} {% include components/header.html %} {% include components/breadcrumbs.html %} {% if site.heading_anchors != false %} {% include vendor/anchor_headings.html html=content ... %} {% else %} {{ content }} {% endif %} {% if page.has_children == true and page.has_toc != false %} {% include components/children_nav.html %} {% endif %} {% include components/footer.html %} {% if site.search_enabled != false %} {% include components/search_footer.html %} {% endif %} {% if site.mermaid %} {% include components/mermaid.html %} {% endif %} &lt;/body&gt; &lt;/html&gt; . Component summary . Defining a new _includes with the same name as any of these components will significantly change the existing layout. Please proceed with caution when adjusting them. To briefly summarize each component: . | _includes/head.html is the entire &lt;head&gt; tag for the site; this imports stylesheets, various JavaScript files (ex: analytics, mermaid, search, and Just the Docs code), and SEO / meta information. | _includes/icons/icons.html imports all SVG icons that are used throughout the site. Some, such as those relating to search or code snippet copying, are only loaded when those features are enabled. | _includes/components/sidebar.html renders the sidebar, containing the site header, navigation links, external links, collections, and nav footer. | _includes/components/header.html renders the navigation header, containing the search bar, custom header, and aux links | _includes/components/breadcrumbs.html renders the breadcrumbs feature | vendor/anchor_headings.html is a local copy of Vladimir Jimenez’s jekyll-anchor-headings snippet | _includes/components/children_nav.html renders a list of nav links to child pages on parent pages | _includes/components/footer.html renders the bottom-of-page footer | _includes/components/search_footer.html renders DOM elements that are necessary for the search bar to work | _includes/components/mermaid.html initializes mermaid if the feature is enabled | . Each of these components can be overridden individually using the same process described in the Override includes section. In particular, the granularity of components should allow users to replace certain components (such as the sidebar) without having to adjust the rest of the code. Future versions may subdivide components further; we guarantee that we will only place them in folders (ex components/, icons/, or a new js/) to avoid top-level namespace collisions. Alternative layouts and example (minimal) . Users can develop custom layouts that compose, omit, or add components differently. We provide one first-class example titled minimal, inspired by Kevin Lin’s work in just-the-class. This minimal layout does not render the sidebar, header, or search. To see an example, visit the minimal layout test page. Here is a simplified code example of what it looks like: . &lt;!-- a simplified version of _layouts/minimal.html --&gt; &lt;html&gt; {% include head.html %} &lt;body&gt; {% include icons/icons.html %} {% comment %} Bandaid fix for breadcrumbs here! {% endcomment %} {% include components/breadcrumbs.html %} {% if site.heading_anchors != false %} {% include vendor/anchor_headings.html html=content ... %} {% else %} {{ content }} {% endif %} {% if page.has_children == true and page.has_toc != false %} {% include components/children_nav.html %} {% endif %} {% include components/footer.html %} {% if site.mermaid %} {% include components/mermaid.html %} {% endif %} &lt;/body&gt; &lt;/html&gt; . This layout is packaged in Just the Docs. Users can indicate this alternative layout in page front matter: . --- layout: minimal title: Minimal layout test --- . Similarly, users and developers can create other alternative layouts using Just the Docs’ reusable includable components. Default layout and inheritance chain . Under the hood, . | default and minimal inherit from the table_wrappers layout, which wraps all HTML &lt;table&gt; tags with a div .table-wrapper | table_wrappers inherits from vendor/compress, which is a local copy of Anatol Broder’s jekyll-compress-html Jekyll plugin | . Note that as of now, minimal and default have no inheritance relationship. Overridden default Jekyll layouts . By default, Jekyll (and its default theme minima) provide the about, home, page, and post layouts. In Just the Docs, we override all of these layouts with the default layout. Each of those layouts is simply: . --- layout: default --- {{ content }} . ",
-    "url": "/docs/customization.html#custom-layouts-and-includes",
+    "url": "/PiOps-Docs/docs/customization.html#custom-layouts-and-includes",
     
     "relUrl": "/docs/customization.html#custom-layouts-and-includes"
   },"37": {
     "doc": "Gestión de usuarios",
     "title": "Gestión de usuarios",
     "content": " ",
-    "url": "/docs/gestionusuarios.html",
+    "url": "/PiOps-Docs/docs/gestionusuarios.html",
     
     "relUrl": "/docs/gestionusuarios.html"
   },"38": {
     "doc": "Gestión de usuarios",
     "title": "Vista general de la sección",
     "content": "En esta sección de la plataforma, nos vamos a encontrar con una lista de accesos, los cuales contienen los siguientes datos: . Apellido Indica el apellido de la persona que realizó el acceso a la plataforma. Nombre Indica el nombre de la persona que realizó el acceso a la plataforma. Mail Indica la cuenta de mail que se utiliza para acceder a la plataforma. Grupo Nos muestra a qué grupo de usuarios pertenece. Estado Nos muestra si el usuario está habilitado o no para acceder a la plataforma. ",
-    "url": "/docs/gestionusuarios.html#vista-general-de-la-secci%C3%B3n",
+    "url": "/PiOps-Docs/docs/gestionusuarios.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/gestionusuarios.html#vista-general-de-la-sección"
   },"39": {
     "doc": "Gestión de usuarios",
     "title": "¿Cómo habilitamos/inhabilitamos el acceso a la plataforma?",
     "content": "Para habilitar/inhabilitar un acceso a la plataforma, sólo debemos presionar el switch que nos aparece en la lista de accesos de la sección de estado. | El color verde nos indica que está habilitado para el acceso. | El color rojo nos indica que no está habilitado para acceder a la plataforma. | . ",
-    "url": "/docs/gestionusuarios.html#c%C3%B3mo-habilitamosinhabilitamos-el-acceso-a-la-plataforma",
+    "url": "/PiOps-Docs/docs/gestionusuarios.html#c%C3%B3mo-habilitamosinhabilitamos-el-acceso-a-la-plataforma",
     
     "relUrl": "/docs/gestionusuarios.html#cómo-habilitamosinhabilitamos-el-acceso-a-la-plataforma"
   },"40": {
     "doc": "Inicio",
     "title": "Te damos la bienvenida a PiOps",
     "content": "En la siguiente documentación, encontrarás todo lo que necesitas saber acerca de la plataforma, desde sus funcionamientos básicos, errores que pueden aparecer y buenas prácticas para el uso óptimo de la misma. ",
-    "url": "/#te-damos-la-bienvenida-a-piops",
+    "url": "/PiOps-Docs/#te-damos-la-bienvenida-a-piops",
     
     "relUrl": "/#te-damos-la-bienvenida-a-piops"
   },"41": {
     "doc": "Inicio",
     "title": "¿Qué es PiOps?",
     "content": "Una plataforma web . Creamos una plataforma web para que las empresas logren administrar sus clientes, asignaciones, posiciones y consultores. Esto agiliza muchos procesos que actualmente se hacen en persona o a través de un equipo administrativo grande. Adaptable . Nuestro producto es ideal para cualquier tipo de empresa, ya sea una start up como una pyme, con PiOps van a poder gestionar todos los clientes, posiciones, asignaciones y consultores que tengan. ",
-    "url": "/#qu%C3%A9-es-piops",
+    "url": "/PiOps-Docs/#qu%C3%A9-es-piops",
     
     "relUrl": "/#qué-es-piops"
   },"42": {
     "doc": "Inicio",
     "title": "¿Qué beneficios me brinda el producto?",
     "content": "Seguimiento de clientes, proyectos y posiciones disponibles . Creamos una sección para cada capa del producto: Clientes, proyectos, asignaciones, posiciones, accesos. Cada una de las secciones fue pensada para que el usuario saque el máximo provecho de la misma, brindándole una interfaz amigable e intuitiva. Backoffice . La plataforma permite administrar todo tipo de asignaciones, posiciones y consultores que necesite el usuario. Es decir, se puede asignar a cualquier usuario a una posición, sólo es cuestión de encontrar la posición que se necesita y asignarlo a la misma. En caso de que no tenga disponibilidad, se pueden quitar las asignaciones que ya tiene el consultor, pero eso lo vamos a profundizar mas adelante. Intuitiva y amigable . -El producto fue creado para que cualquier tipo de usuario logre utilizarlo y sacar el máximo potencial de la plataforma. Para nosotros es muy importante eso, por eso dedicamos muchas horas a la investigación para darle al usuario lo que realmente necesita: Una buena experiencia al utilizar un producto. ",
-    "url": "/#qu%C3%A9-beneficios-me-brinda-el-producto",
+    "url": "/PiOps-Docs/#qu%C3%A9-beneficios-me-brinda-el-producto",
     
     "relUrl": "/#qué-beneficios-me-brinda-el-producto"
   },"43": {
     "doc": "Inicio",
     "title": "Características principales",
     "content": ". | Seguimiento de clientes. | Seguimiento de proyectos. | Seguimiento de consultores. | Puede ser administrado por una persona, sin necesidad de recurrir a un equipo administrativo grande. | Actualizaciones continuas con el objetivo de mejorar la experiencia de uso. | . ",
-    "url": "/#caracter%C3%ADsticas-principales",
+    "url": "/PiOps-Docs/#caracter%C3%ADsticas-principales",
     
     "relUrl": "/#características-principales"
   },"44": {
     "doc": "Inicio",
     "title": "Inicio",
     "content": " ",
-    "url": "/",
+    "url": "/PiOps-Docs/",
     
     "relUrl": "/"
   },"45": {
     "doc": "Navigation Structure",
     "title": "Navigation Structure",
     "content": ". | Main navigation | Ordering pages | Excluding pages | Pages with children . | Child pages | Ordering child pages | Auto-generating Table of Contents | Children with children | . | Auxiliary Links | In-page navigation with Table of Contents . | Collapsible Table of Contents | . | . ",
-    "url": "/docs/navigation-structure.html",
+    "url": "/PiOps-Docs/docs/navigation-structure.html",
     
     "relUrl": "/docs/navigation-structure.html"
   },"46": {
     "doc": "Navigation Structure",
     "title": "Main navigation",
     "content": "The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren). By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see Pages with Children). ",
-    "url": "/docs/navigation-structure.html#main-navigation",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#main-navigation",
     
     "relUrl": "/docs/navigation-structure.html#main-navigation"
   },"47": {
     "doc": "Navigation Structure",
     "title": "Ordering pages",
     "content": "To specify a page order, you can use the nav_order parameter in your pages’ YAML front matter. Example . --- layout: default title: Customization nav_order: 4 --- . The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents. The parameter values can be numbers (integers, floats) and/or strings. Pages with numerical nav_order parameters always come before those with string nav_order parameters. When you omit nav_order parameters, they default to the titles of the pages. If you want to make the page order independent of the page titles, you can set explicit nav_order parameters on all pages. All pages with explicit nav_order parameters come before all pages ordered by their title values. By default, all Capital letters come before all lowercase letters; you can add nav_sort: case_insensitive in the configuration file to ignore the case. Enclosing strings in (single or double) quotation marks is optional. Numeric values are not enclosed in quotation marks, e.g., 42, -1.0; numbers in quotation marks are lexicographically ordered, so \"10\" comes before \"2\", for example. ",
-    "url": "/docs/navigation-structure.html#ordering-pages",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#ordering-pages",
     
     "relUrl": "/docs/navigation-structure.html#ordering-pages"
   },"48": {
     "doc": "Navigation Structure",
     "title": "Excluding pages",
     "content": "For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the nav_exclude: true parameter in the YAML front matter for that page. Example . --- layout: default title: 404 nav_exclude: true --- . The nav_exclude parameter does not affect the auto-generating list of child pages, which you can use to access pages excluded from the main navigation. Pages with no title are automatically excluded from the main navigation. ",
-    "url": "/docs/navigation-structure.html#excluding-pages",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#excluding-pages",
     
     "relUrl": "/docs/navigation-structure.html#excluding-pages"
   },"49": {
     "doc": "Navigation Structure",
     "title": "Pages with children",
     "content": "Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together… For example, in these docs, we keep all of the written documentation in the ./docs directory and each of the sections in subdirectories like ./docs/ui-components and ./docs/utilities. This gives us an organization like: . +-- .. |-- (Jekyll files) |-- docs |-- ui-components | |-- index.md (parent page) | |-- buttons.md | |-- code.md | |-- labels.md | |-- tables.md | +-- typography.md | |-- utilities | |-- index.md (parent page) | |-- color.md | |-- layout.md | |-- responsive-modifiers.md | +-- typography.md | |-- (other md files, pages with no children) | +-- .. |-- (Jekyll files) +-- .. On the parent pages, add this YAML front matter parameter: . | has_children: true (tells us that this is a parent page) | . Example . --- layout: default title: UI Components nav_order: 2 has_children: true --- . Here we’re setting up the UI Components landing page that is available at /docs/ui-components, which has children and is ordered second in the main nav. Child pages . On child pages, simply set the parent: YAML front matter to whatever the parent’s page title is and set a nav order (this number is now scoped within the section). Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 --- . The Buttons page appears as a child of UI Components and appears second in the UI Components section. Ordering child pages . New (v0.4.0) . You can optionally add the following to the YAML front matter to reverse the default sort order of child pages: . | child_nav_order: reversed | . Example . --- layout: default title: Reversed Child Pages child_nav_order: reversed --- . Auto-generating Table of Contents . By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page’s content. To disable this auto Table of Contents, set has_toc: false in the parent page’s YAML front matter. Example . --- layout: default title: UI Components nav_order: 2 has_children: true has_toc: false --- . Children with children . Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages. | Add the has_children attribute to the child | Add the parent and grand_parent attribute to the grandchild | . Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 has_children: true --- . --- layout: default title: Buttons Child Page parent: Buttons grand_parent: UI Components nav_order: 1 --- . This would create the following navigation structure: . +-- .. |-- UI Components |-- .. | |-- Buttons | |-- Button Child Page | |-- .. | +-- .. Currently, the navigation structure is limited to 3 levels: grandchild pages cannot themselves have child pages. ",
-    "url": "/docs/navigation-structure.html#pages-with-children",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#pages-with-children",
     
     "relUrl": "/docs/navigation-structure.html#pages-with-children"
   },"50": {
     "doc": "Navigation Structure",
     "title": "Auxiliary Links",
     "content": "To add auxiliary links to your site (in the upper right on all pages), add it to the aux_links configuration option in your site’s _config.yml file. Example . # Aux links for the upper right navigation --- ## External Navigation Links {: .d-inline-block } New (v0.4.0) {: .label .label-green } To add external links to the navigation, add them to the `nav_external_links` [configuration](/docs/configuration.html) option in your site's `_config.yml` file. External links will appear in the navigation after the links to ordinary pages, but before any collections. #### Example {: .no_toc } ```yaml # External navigation links nav_external_links: . The external links are decorated by an icon, which distinguishes them from internal links. You can suppress the icon by setting hide_icon: true. ",
-    "url": "/docs/navigation-structure.html#auxiliary-links",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#auxiliary-links",
     
     "relUrl": "/docs/navigation-structure.html#auxiliary-links"
   },"51": {
     "doc": "Navigation Structure",
     "title": "In-page navigation with Table of Contents",
     "content": "To generate a Table of Contents on your docs pages, you can use the {:toc} method from Kramdown, immediately after an &lt;ol&gt; in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you’re using a heading and you don’t want it to show up in the TOC, so to skip a particular heading use the {: .no_toc } CSS class. Example . # Navigation Structure {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} . This example skips the page name heading (#) from the TOC, as well as the heading for the Table of Contents itself (##) because it is redundant, followed by the table of contents itself. To get an unordered list, replace 1. TOC above by - TOC. Collapsible Table of Contents . The Table of Contents can be made collapsible using the &lt;details&gt; and &lt;summary&gt; elements , as in the following example. The attribute open (expands the Table of Contents by default) and the styling with {: .text-delta } are optional. &lt;details open markdown=\"block\"&gt; &lt;summary&gt; &lt;/summary&gt; {: .text-delta } 1. TOC {:toc} &lt;/details&gt; . The result is shown at the top of this page ({:toc} can be used only once on each page). ",
-    "url": "/docs/navigation-structure.html#in-page-navigation-with-table-of-contents",
+    "url": "/PiOps-Docs/docs/navigation-structure.html#in-page-navigation-with-table-of-contents",
     
     "relUrl": "/docs/navigation-structure.html#in-page-navigation-with-table-of-contents"
   },"52": {
     "doc": "Operaciones",
     "title": "Operaciones",
     "content": "La sección de Operaciones es el núcleo de la aplicación, donde los usuarios pueden gestionar y visualizar información crucial relacionada con un cliente específico y un rango de fechas determinado. Al ingresar a esta sección, los usuarios deberán seleccionar el cliente de interés y, de manera opcional, pueden ajustar el rango de fechas para obtener datos precisos. Por defecto, se mostrarán los datos con la fecha actual como inicio y el día siguiente como fecha de finalización. ",
-    "url": "/docs/operaciones.html",
+    "url": "/PiOps-Docs/docs/operaciones.html",
     
     "relUrl": "/docs/operaciones.html"
   },"53": {
     "doc": "Operaciones",
     "title": "Vista General",
     "content": "En esta sección, presentamos tres tarjetas (cards) que contienen información relevante sobre las asignaciones, posiciones y consultores asociados con el cliente seleccionado. Asignaciones . En esta tarjeta, visualizamos todas las asignaciones existentes para el cliente seleccionado en el rango de fechas determinado. Cada asignación incluirá detalles esenciales como el Cliente, Rol, FTE (Full time equivalent), Consultor y la fecha de inicio, la fecha de finalización. Los usuarios pueden obtener una visión general de cuantas asignaciones tiene un cliente en específico también se puede visualizar todas las asignaciones actuales en todos los clientes seleccionado todos. Posiciones . En esta tarjeta, se listan todas las posiciones disponibles con estado “Open” para el cliente. Cada posición incluirá información sobre el tipo de puesto, el rol, área, FTE (Full time equivalent), descripción, estado, fecha de inicio y fecha de finalización. Esto permite a los usuarios conocer las posiciones actuales para el cliente específico y evaluar la demanda y necesidades de consultores. Si queremos visualizar todas las posiciones con todos los consultores cuyo estado no esté en “Open” se debe seleccionar la casilla que dice “Mostrar todos los consultores”. Consultores . Esta tarjeta nos brinda acceso a la información detallada de los consultores disponibles y los consultores asignados con la posición seleccionada. Se nos abrirá una vista completa de los consultores disponibles mejores calificados para la posición, y también abajo una vista de consultores que actualmente están asignados a posiciones específicas. Acá podemos realizar dos acciones principales: Asignar consultor, Asignar nuevo consultor y Retirar consultor asignado. Estas acciones se detallan más abajo: . Para que todos los cambios se guarden en el sistema es importante que usemos el botón de guardar cambios y esperar el mensaje de confirmación de que se llevó a cabo con éxito el proceso. ",
-    "url": "/docs/operaciones.html#vista-general",
+    "url": "/PiOps-Docs/docs/operaciones.html#vista-general",
     
     "relUrl": "/docs/operaciones.html#vista-general"
   },"54": {
     "doc": "Operaciones",
     "title": "Funciones Principales",
     "content": "Barra de Filtrado . La barra de filtrado nos permitirá seleccionar un cliente especifico y seleccionar un rango de fechas en donde se quiera realizar la consulta, también existe la posibilidad de ver todos los clientes juntos seleccionando “Todos”. | Abrimos la selección de los clientes usando la barra despegable. | Seleccionamos un cliente específico de la lista. | Elegimos un rango de fechas deseado para la consulta. | Opcionalmente, podemos hacer clic en la opción “Todos” para ver todos los clientes juntos. Los cambios se actualizan automáticamente al cambiar alguno de estos valores. | . Borrar filtro actual . | Para borrar el filtro actual solo debemos seleccionar el icono de borrado al costado de la barra despegables de clientes. | . Ver descripción o detalle de una posición . En la tabla de posiciones tenemos diferentes tipos de acciones una de ellas es la opción de ver la descripción de la posición, seleccionando el icono se abrirá un modal con dicha información. | Localizamos la tabla de posiciones. | Identificamos la columna de descripción. | Buscamos el icono designado para ver la descripción (icono de ojo). | Hacemos clic en el icono. | Se nos abrirá un modal emergente con la información detallada. | . Ver consultores para dicha posición . En la tabla de posiciones tenemos también la opción de consultores, seleccionándolo se mostrará en la tabla de consultores todos aquellos que estén asignados a esa posición y también una lista de consultores disponibles para asignar. | Localizamos la tabla de posiciones. | Localizamos la columna “Descripción”. | Identificamos el icono designado para mostrar los consultores (silueta de personas). | Hacemos clic en el icono. | Automáticamente en la parte inferior debería mostrarse la tabla de consultores de esa posición. | La tabla de consultores se actualizará para mostrar los consultores asignados a esa posición. | Junto a los consultores asignados, se listarán también los consultores sin asignar a esa posición. | . Filtro de búsqueda de consultores . En la tabla de consultores, contaremos con la funcionalidad de filtrar los consultores disponibles por nombre. Esta útil herramienta facilita la búsqueda y ubicación rápida del consultor deseado en la lista. Al ingresar el nombre del consultor en el filtro, la tabla mostrará automáticamente los resultados coincidentes, permitiendo a los usuarios localizar de manera eficiente al consultor buscado sin la necesidad de revisar toda la lista. Esta característica agiliza la gestión y asignación de consultores a posiciones específicas, mejorando la experiencia del usuario. | Localizamos la tabla de consultores. | Identificamos el campo de filtro de búsqueda, aparece con un placeholder con la palabra ‘Buscar…’. | Ingresamos el nombre o apellido del consultor que se desea buscar en el campo de filtro. | A medida que se escribe el nombre, la tabla comenzará a mostrarnos automáticamente los resultados coincidentes en tiempo real. | Identificamos el consultor en la tabla, ya se encuentra listo para iniciar el proceso de asignar un consultor detallado más abajo. | . Atención: . Si en la lista no aparece algún consultor, es posible que dicho consultor esté marcado como ‘no asignable’ o que ya tenga la totalidad de su FTE (Tiempo Completo) asignado a otras tareas. En tales casos, podemos activar la casilla de ‘Mostrar todos los consultores’, que nos mostrará la lista completa de consultores sin excepción. Esto permite acceder a todos los consultores registrados en la base de datos, independientemente de su estado de asignación o FTE actual. Al activar esta opción, vamos a tener una visión completa de todos los consultores. Asignar un consultor . Vamos a poder asignar un nuevo consultor a una posición disponible. Para llevar a cabo esta acción, siga los pasos a continuación: . | Ubicar y seleccionar un consultor de la tabla de consultores disponibles. | Completar los campos de FTE (Full Time Equivalent) para especificar la cantidad de tiempo que el consultor trabajará en la posición. | Ingresar el valor correspondiente en el campo de FTE. Los valores típicos son 1 FTE para tiempo completo y 0.5 FTE para medio tiempo, también se pueden ingresar valores como 0.2, 0.8 según la disponibilidad del consultor. | Ingresar la fecha de inicio de la asignación haciendo clic en el campo INICIO y colocar la fecha correspondiente, | Ingresar la fecha de finalización de la asignación haciendo clic en el campo FINAL y colocar la fecha correspondiente | Una vez completado todos los campos requeridos, vamos a poder agregar a la lista de asignados haciendo clic en el icono verde de asignar. | Realizado esta acción el nombre del consultor seleccionado ahora debería poder verse listado en la tabla de consultores asignados. | Importante para que estos cambios estén guardados en el sistema se debe hacer clic en la parte inferior en el botón de “Guardar cambios”. | . Retirar o cancelar consultor activo . También podemos retirar a un consultor que esté actualmente asignado a una posición. Esta acción se utiliza cuando un consultor ha completado su tarea o por cualquier otro motivo se le debe retirar de la posición. | Localizar la tabla de consultores asignados a la posición. | Localizar el consultor que quiere remover de la posición. | Ubicar la columna de ACCIONES el icono rojo de “Cancelar” para retirar la posición vigente. | Hacer clic en el icono de “Cancelar”, a continuación, el consultor no debería aparecer mas en la tabla de consultores asignados. | Importante para que estos cambios estén guardados en el sistema siempre debe hacer clic en la parte inferior en el botón de “Guardar cambios”. | . ",
-    "url": "/docs/operaciones.html#funciones-principales",
+    "url": "/PiOps-Docs/docs/operaciones.html#funciones-principales",
     
     "relUrl": "/docs/operaciones.html#funciones-principales"
   },"55": {
     "doc": "Operaciones",
     "title": "Errores que nos podemos encontrar en la sección ",
     "content": "Este error significa que no se pudo llevar a cabo el proceso de asignación. Generalmente, puede deberse a algún conflicto en la base de datos o problemas de conexión. Intente nuevamente. Si el error persiste, comuníquese con soporte. Este error significa que no se pudo asignar el consultor o consultores a un proyecto esto puede deberse a varios factores, verifique su conexión, si el problema no se resuelve después de varios intentos comunicarse con soporte. FTE excedido. El consultor no puede tener más de 1.25 FTE asignados, Disponible para asignar: FTE. Este error aparece cuando intentamos asignar a un consultor más tiempo del disponible según su capacidad máxima. El sistema limita la asignación total a 1.25 FTE por consultor. El mensaje indicará específicamente cuánto FTE tiene aún disponible para asignar. Asignaciones actualizadas (Guardar cambios para actualizar en la base de datos) Este mensaje aparece como recordatorio de que aunque los cambios se han registrado en la interfaz, es necesario hacer clic en el botón “Guardar cambios” para que estos se apliquen permanentemente en la base de datos. ",
-    "url": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
+    "url": "/PiOps-Docs/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/operaciones.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"56": {
     "doc": "Posiciones",
     "title": "Posiciones",
     "content": " ",
-    "url": "/docs/posiciones.html",
+    "url": "/PiOps-Docs/docs/posiciones.html",
     
     "relUrl": "/docs/posiciones.html"
   },"57": {
     "doc": "Posiciones",
     "title": "Vista general de la sección",
     "content": "En la pantalla de posiciones, vamos a poder llevar el seguimiento de las posiciones que tiene cada cliente y los consultores asignados en las mismas. En la misma sección, también se puede filtrar por: Cliente, Consultor y Estado. También contamos con la posibilidad de buscar una posición. En la lista de posiciones nos encontramos con las siguientes columnas: . Prioridad . Indica el nivel de prioridad asignado a cada posición, representado por un indicador visual (flecha hacia arriba, abajo o al centro). Rol y Área . Muestra la información del rol específico (como React Developer, BI, Python) y el área a la que pertenece la posición (como Development, Data Science). Cliente . Indica el nombre del cliente que tiene la posición asignada (como Pi Consulting, etc.). Proyecto . Muestra el proyecto asociado a la posición. Búsqueda Activa . Indica si la posición está activamente en búsqueda de candidatos (muestra SI o NO). Ejecutivo . Muestra el nombre del ejecutivo o persona a cargo de la posición cuando está asignado. Estado . Indica el estado actual de la posición (Open,Negotiation, Finished, On Going, etc.). Acciones . Dentro de las acciones nos podemos encontrar con: Editar posición, Ver posición y Cancelar posición. | Editar posición: El usuario cuenta con la posibilidad de editar la posición actual. | Ver posición: El usuario cuenta con la posibilidad de ver el detalle de la posición y editarla en caso de que lo necesite. | Cancelar posición: El usuario cuenta con la posibilidad de cancelar la posición actual. | . ",
-    "url": "/docs/posiciones.html#vista-general-de-la-secci%C3%B3n",
+    "url": "/PiOps-Docs/docs/posiciones.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#vista-general-de-la-sección"
   },"58": {
     "doc": "Posiciones",
     "title": "¿Cómo creamos una posición?",
     "content": ". | Lo primero que tenemos que hacer, es ir al botón de “Nueva posición”. | Luego de apretar el botón de “Nueva posición” se nos abrirá el siguiente formulario: Para llenar el formulario, vamos a tener que ingresar los siguientes datos: Cliente Seleccionamos el cliente donde se creará la posición de la lista desplegable. Proyecto Seleccionamos el proyecto en el cual se creará la posición. Es necesario seleccionar primero el cliente para que se muestren sus proyectos. Área Seleccionamos el área a la que pertenecerá la posición nueva de la lista desplegable. Tiempo en proyecto (FTE) Ingresamos el equivalente de tiempo completo (Full Time Equivalent) para esta posición. Por ejemplo, FT = 1 para tiempo completo. Rol Ingresamos el rol específico que cumplirá la persona en esta posición. Seniority Seleccionamos el nivel de seniority requerido para la posición de la lista desplegable. Estado Seleccionamos el estado inicial de la posición de la lista desplegable (Open, Negotiation, etc.). Fecha de inicio y Fin Seleccionamos las fechas de inicio y finalización para la posición utilizando el selector de calendario. Descripción del proyecto (Opcional) Ingresamos una breve descripción del proyecto y responsabilidades. Esto ayudará a quien necesite ver el detalle de la posición. Ejecutivo a cargo (Opcional) Ingresamos el nombre del ejecutivo a cargo. Área Seleccionamos un área específica para obtener los específicos de esa área (campo adicional para detalles específicos). Prioridad (Opcional) Seleccionamos el nivel de prioridad que tiene la posición nueva de la lista desplegable. Búsqueda activa (Opcional) Activamos este interruptor si la posición está actualmente en búsqueda activa de candidatos. Persona a cargo (Opcional) Ingresamos el nombre de la persona responsable del proyecto o posición. | Una vez completado el formulario, le damos al botón “Crear posición” . | Una vez finalizado este proceso, vamos a ver una notificación confirmando que la posición fue creada con éxito. | . ",
-    "url": "/docs/posiciones.html#c%C3%B3mo-creamos-una-posici%C3%B3n",
+    "url": "/PiOps-Docs/docs/posiciones.html#c%C3%B3mo-creamos-una-posici%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#cómo-creamos-una-posición"
   },"59": {
     "doc": "Posiciones",
     "title": "¿Cómo edito una posición?",
     "content": ". | Para editar una posición, debemos ir a la barra de acciones y seleccionar el primer botón. | Una vez seleccionado el botón, se nos abrirá el formulario completo con todos los datos que contiene esa posición. | Una vez modificado los datos que necesitemos, apretamos “Guardar cambios”. | . ",
-    "url": "/docs/posiciones.html#c%C3%B3mo-edito-una-posici%C3%B3n",
+    "url": "/PiOps-Docs/docs/posiciones.html#c%C3%B3mo-edito-una-posici%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#cómo-edito-una-posición"
   },"60": {
     "doc": "Posiciones",
     "title": "¿Cómo veo el detalle de una posición?",
     "content": ". | Para ver el detalle de una posición, debemos ir al segundo botón de la barra de acciones. | Una vez seleccionado el botón, accederemos a ver el detalle de la posición. | . ",
-    "url": "/docs/posiciones.html#c%C3%B3mo-veo-el-detalle-de-una-posici%C3%B3n",
+    "url": "/PiOps-Docs/docs/posiciones.html#c%C3%B3mo-veo-el-detalle-de-una-posici%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#cómo-veo-el-detalle-de-una-posición"
   },"61": {
     "doc": "Posiciones",
     "title": "¿Cómo cancelo una posición?",
     "content": ". | Para cancelar una posición, debemos seleccionar una posición que deseemos cancelar y apretar el tercer botón de la barra de acciones. Esta acción cambia el estado de la posición a “Cancelada” pero mantiene sus datos en el sistema para referencia histórica. | Una vez presionado el botón, vamos a recibir una notificación emergente confirmando que la posición fue cancelada con éxito. | . ",
-    "url": "/docs/posiciones.html#c%C3%B3mo-cancelo-una-posici%C3%B3n",
+    "url": "/PiOps-Docs/docs/posiciones.html#c%C3%B3mo-cancelo-una-posici%C3%B3n",
     
     "relUrl": "/docs/posiciones.html#cómo-cancelo-una-posición"
   },"62": {
     "doc": "Posiciones",
     "title": "Descargar Informe de Posiciones",
     "content": "Descarga un informe de las posiciones en CSV . ",
-    "url": "/docs/posiciones.html#descargar-informe-de-posiciones",
+    "url": "/PiOps-Docs/docs/posiciones.html#descargar-informe-de-posiciones",
     
     "relUrl": "/docs/posiciones.html#descargar-informe-de-posiciones"
   },"63": {
     "doc": "Proyectos",
     "title": "Proyectos",
     "content": " ",
-    "url": "/docs/proyectos.html",
+    "url": "/PiOps-Docs/docs/proyectos.html",
     
     "relUrl": "/docs/proyectos.html"
   },"64": {
     "doc": "Proyectos",
     "title": "Vista general de la sección",
     "content": "En esta sección, los usuarios podrán acceder a una tabla detallada de los proyectos actuales que han sido cargados en la aplicación. Cada proyecto se presenta con información relevante y completa, que incluye el nombre del proyecto, el cliente asociado, las fechas de inicio y finalización, las fechas de inicio real y fechas de fin real, el estado actual del proyecto y la fase en la que se encuentra hasta el momento. Esta vista proporciona una visión general completa y actualizada de todos los proyectos en curso, lo que permite a los usuarios mantenerse al tanto del estado de proyecto y tomar decisiones informadas en función del progreso y las fechas límite. Además, la disponibilidad de información detallada sobre el cliente asociado en cada proyecto facilita la identificación rápida y precisa de los proyectos relacionados con cada cliente específico, optimizando así la eficiencia y organización en la gestión de múltiples proyectos y clientes. ",
-    "url": "/docs/proyectos.html#vista-general-de-la-secci%C3%B3n",
+    "url": "/PiOps-Docs/docs/proyectos.html#vista-general-de-la-secci%C3%B3n",
     
     "relUrl": "/docs/proyectos.html#vista-general-de-la-sección"
   },"65": {
     "doc": "Proyectos",
     "title": "Filtrando proyectos y clientes",
     "content": "Para facilitar la búsqueda y organización de proyectos, el usuario podrá utilizar la función de filtrado. Filtro por nombre . | Localizar el buscador ubicado en la parte superior izquierda de la vista general con la palabra “Buscar proyecto” | Ingresar el nombre del proyecto que quiere buscar. | A medida que se escribe el nombre del proyecto o nombre del cliente, la tabla comenzará a mostrar automáticamente los resultados coincidentes en tiempo real. | . Filtro por cliente . | Hacer clic en el selector desplegable de “Filtro por Cliente” | Seleccionar el cliente específico cuyos proyectos desea visualizar | La tabla se actualizará mostrando únicamente los proyectos asociados al cliente seleccionado | . Filtro por rango de fechas . | Localizar los selectores de fecha “Desde” y “Hasta” en la barra de filtros | Seleccionar la fecha inicial en el campo “Desde” | Seleccionar la fecha final en el campo “Hasta” | La tabla se actualizará mostrando únicamente los proyectos cuya fecha de inicio se encuentre dentro del rango seleccionado | . Los filtros pueden combinarse para realizar búsquedas más específicas. Por ejemplo, se pueden filtrar proyectos de un cliente específico que además se encuentren dentro de un determinado rango de fechas. ",
-    "url": "/docs/proyectos.html#filtrando-proyectos-y-clientes",
+    "url": "/PiOps-Docs/docs/proyectos.html#filtrando-proyectos-y-clientes",
     
     "relUrl": "/docs/proyectos.html#filtrando-proyectos-y-clientes"
   },"66": {
     "doc": "Proyectos",
     "title": "¿Cómo agregamos un proyecto?",
     "content": "Los usuarios tendrán la capacidad de crear nuevos proyectos directamente desde esta sección. A continuación, se detallará como agregar un nuevo proyecto. | Localizamos el botón de “Nuevo proyecto” en la parte superior derecha de la vista general. | Hacer clic en el botón. Se nos abrirá un modal con el formulario de alta de un proyecto donde vamos a rellenar todos los campos. | Ingresamos el nombre del proyecto, este nombre debe ser único y no coincidir con algún proyecto existente en la plataforma. | Seleccionamos el cliente que pertenece el proyecto en la lista despegable. | Seleccionamos el ejecutivo a cargo, seleccionamos primero el Area de donde se obtiene los ejecutivos y despues el ejecutivo a cargo, este campo es opcional . | Ingresamos la cantidad de horas totales de desarrollo del proyecto. | Ingresamos la cantidad de horas totales vendidas. | Ingresamos fecha de Inicio del proyecto y la fecha de finalización del proyecto. | Seleccionamos de la lista despegable el estado en el que se encuentra el proyecto. Los estados disponibles son: . | En Curso: El proyecto se encuentra activo con tareas en progreso según la planificación establecida | Pausado: El proyecto ha sido temporalmente detenido por razones específicas (espera de recursos, reevaluación de prioridades, etc.) | Cerrado: El proyecto ha finalizado completamente, cumpliendo con los objetivos establecidos o por decisión de la dirección | . | Seleccionamos de la lista despegable la fase en la que se encuentra el proyecto. Las fases disponibles son: . | Inicio: El proyecto está en su etapa inicial donde se definen objetivos, alcance, se identifican interesados y se elabora el plan de trabajo | Desarrollo: El proyecto está en la fase principal de ejecución donde se realizan las actividades planificadas, se crean entregables y se monitorea el avance | Cierre: El proyecto está en su etapa final donde se completan y verifican los entregables, se documenta la finalización y se liberan recursos | . | . | indicamos el porcentaje del avance en cual se encuentra el proyecto indicando del 0 al 100%. | . Finalmente, una vez rellenado todos los campos existentes para crear un proyecto finalizamos el proceso haciendo clic en “Crear proyecto” y esperamos la confirmación de la creación del proyecto. ",
-    "url": "/docs/proyectos.html#c%C3%B3mo-agregamos-un-proyecto",
+    "url": "/PiOps-Docs/docs/proyectos.html#c%C3%B3mo-agregamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-agregamos-un-proyecto"
   },"67": {
     "doc": "Proyectos",
     "title": "¿Cómo editamos un proyecto?",
     "content": "Esta sección también permitirá a los usuarios editar los proyectos existentes en caso de que se necesite. Para editar un proyecto deben seguir los siguientes pasos. | Localizamos en la tabla de proyectos la columna de ACCIONES . | Identificamos el icono designado para la edición (icono de lápiz). | Hacemos clic en el icono de edición. | Se volverá a abrir el mismo modal con el formulario esta vez con los datos del proyecto seleccionado. | Modificamos el cambio que se necesite. | Hacemos clic en “Guardar cambios” para que impacten en la aplicación. | . ",
-    "url": "/docs/proyectos.html#c%C3%B3mo-editamos-un-proyecto",
+    "url": "/PiOps-Docs/docs/proyectos.html#c%C3%B3mo-editamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-editamos-un-proyecto"
   },"68": {
     "doc": "Proyectos",
     "title": "¿Cómo eliminamos un proyecto?",
     "content": "En caso de que un proyecto haya sido concluido o desestimado, los usuarios podrán eliminarlo de la lista. La opción de “Eliminar proyecto” permitirá retirar de manera definitiva el proyecto seleccionado, asegurando que la lista de proyectos refleje siempre el estado actual de las tareas en curso, los proyectos solo se podrán eliminar si no tienen clientes y consultores asignados al proyecto. | Localizamos en la tabla proyectos la columna ACCIONES | Identificamos el icono designado para la eliminación de proyectos (icono con signo menos). | Hacemos clic en el icono de ‘Eliminar’. | A continuación, recibiremos una advertencia de que la acción no se puede deshacer. | Para que los cambios impacten en el sistema hacemos clic en el botón “Eliminar proyecto” para confirmar la acción. | . ",
-    "url": "/docs/proyectos.html#c%C3%B3mo-eliminamos-un-proyecto",
+    "url": "/PiOps-Docs/docs/proyectos.html#c%C3%B3mo-eliminamos-un-proyecto",
     
     "relUrl": "/docs/proyectos.html#cómo-eliminamos-un-proyecto"
   },"69": {
     "doc": "Proyectos",
     "title": "Errores que nos podemos encontrar en la sección ",
     "content": ". | Esta notificación de error alerta que se está queriendo eliminar un proyecto que tiene consultores asignados, verifique que el proyecto no tenga consultores asignados antes de eliminarlos. | Esta notificación alerta que cuando se intentó crear el proyecto hubo un fallo y no se pudo crear, puede llegar a deberse por problemas de conexión o tal vez de servidor, cerrar y volver a intentarlo. | Esta notificación advierte que no se pudieron obtener los datos de la sección, puede deberse a problemas de conexión . | . ",
-    "url": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
+    "url": "/PiOps-Docs/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-secci%C3%B3n-",
     
     "relUrl": "/docs/proyectos.html#errores-que-nos-podemos-encontrar-en-la-sección-"
   },"70": {
     "doc": "Versiones",
     "title": "Versiones",
     "content": "| N° de Versión | Fecha | Detalle | . | 1 |   |   | . | 2 |   |   | . | 2.2.1 | 11/06/2025 | Mejoras:- [FEATURE] Implement project filtering and client selection components- [FEATURE] Restore and enable ‘Contratos’ section in navigation and routing- [FEATURE] Implement section-based access control in navigation and routing, add Access Denied page, and update user permissions on login- [FEATURE] Add project viewing functionality with modal and display componentsCorrecciones:- [FIX] Refactor FormEditPosition and SelectProject components: improve state management, enhance project loading logic, and update default values handlingActualizaciones:- [UPDATE] Display renewal count in modal description when available in position view | . ",
-    "url": "/docs/versiones.html",
+    "url": "/PiOps-Docs/docs/versiones.html",
     
     "relUrl": "/docs/versiones.html"
   }
